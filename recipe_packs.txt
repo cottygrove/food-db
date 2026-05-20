@@ -1,0 +1,4931 @@
+COMBINED RECIPE PACKS FOR THE MACROINTUITIVE COPILOT
+=====================================================
+This file aggregates multiple recipe packs from @iamtimwalcott.
+Each section below contains a separate pack delimited by ============ banners.
+All recipes include: name, macros per serve, ingredients, instructions, tags.
+Tag legend: GF=Gluten Free, DF=Dairy Free, LC=Low Carb, MP=Meal Prep,
+HP=High Protein (>20g per serve), V=Vegetarian, Q=Quick (<30 min), N=Contains Nuts
+
+
+============================================================
+PACK: 40 LOW CARB RECIPE PACK
+SOURCE FILE: 40_Low_Carb_Recipe_Pack_Claude_Optimized.txt
+============================================================
+
+40 LOW CARB RECIPE PACK
+Claude Code / Artifact Optimized Plain Text Export
+
+Formatting Rules:
+- Clean UTF-8 text
+- Consistent recipe structure
+- Minimal visual clutter
+- Preserved nutrition + ingredients + instructions
+- Optimized for parsing, indexing, RAG, and AI ingestion
+
+==================================================
+
+================ PAGE 1 ================
+
+40 HEALTHY TASTY RECIPES FOR EVERY MEAL
+Low-CarbRecipe Pack
+@iamtimwalcott
+@iamtimwalcott
+
+================ PAGE 2 ================
+
+================ PAGE 3 ================
+
+1. Spiced Turmeric Poached Egg with Spinach
+2. Cottage Cheese & Basil Filled Omelet
+3. Easy Herby Sausages
+4. Egg & Avocado Filling
+5. Protein Cottage Cheese Pancakes
+6. Gluten Free Tropical Granola
+7. Egg & Smoked Mackerel Paste
+8. Egg Broccoli & Ham Breakfast Muffins
+9. High Protein Egg, Bacon & Avocado
+Breakfast Bowl
+10. Asian Inspired Scrambled Eggs
+11. Garlic Herb Baked Zucchini Fries
+12. Tofu Summer Rolls with Caesar Sauce
+13. The Best Sweetcorn Fritters
+14. Green Pea & Tofu Paste
+15. Creamy Black Bean Hummus
+Contents
+16. Kale & Tofu Salad with Creamy Peanut
+Butter Dressing
+17. Smoked Salmon & Strawberry Salad Mix
+18. Chicken, Avocado & Cucumber Salad
+19. Cured Ham, Pear & Walnut Salad
+20. Greek Cucumber Salad
+21. Crushed Cucumber & Salmon Salad
+22. High Protein Coronation Chicken Salad
+23. Grilled Vegetable Salad with Tuna, Mint &
+Pistachio
+24. High Protein Turkey Salad
+25. Easy Salmon Spring Rolls
+26. Cod with Creamy Sauce with Zoodles
+27. Jerk Chicken with Coconut Cauliflower Rice
+28. Zesty Chicken & Asparagus Salad
+29. Baked Quinoa Chicken Nuggets
+30. Sesame Ginger Beef Stir Fry with Zoodles
+@iamtimwalcott
+
+================ PAGE 4 ================
+
+31. Shrimp Tom Yum Soup
+32. Baked Salmon & Warm Quinoa Salad
+33. Protein Strawberry Muffins
+34. Yogurt & Peanut Butter Protein Fluff 
+35. Easy Banana & Strawberry Cake
+36. Ferrero Rocher Energy Balls
+37. Almond & Coconut Energy Balls
+38. Mocha Energy Balls
+39. Plant-Based Crème Brulee
+40. Stuffed Banana Chocolate Bites
+Contents & Key
+GF
+DF
+LC
+MP
+HP
+V
+Q
+N
+Gluten Free
+Dairy Free
+Low Carb (<20g per serve)
+Meal Prep/Freezer Friendly
+High Protein (>20g per serve)
+Vegetarian
+Quick (under 30 mins)
+Contains Nuts 
+@iamtimwalcott
+
+================ PAGE 5 ================
+
+Breakfast Lunch Snack Dinner
+Monday Easy Herby
+Sausages
+Cured Ham, 
+Pear &
+ Walnut Salad
+E.g. Almond &
+Coconut Energy
+Balls
+Jerk Chicken
+ with Coconut
+Cauliflower Rice
+Tuesday Easy Herby
+Sausages
+Leftover Jerk
+Chicken
+ with Coconut
+Cauliflower Rice
+E.g. Almond &
+Coconut Energy
+Balls
+Shrimp Tom
+Yum Soup
+Wednesday
+Spiced Turmeric 
+ Poached Egg with
+Spinach
+High Protein
+Coronation
+ Chicken Salad
+E.g. Almond &
+Coconut Energy
+Balls
+Leftover Shrimp 
+Tom Yum Soup
+Thursday
+Asian Inspired
+Scrambled
+ Eggs
+High Protein
+Coronation
+ Chicken Salad
+E.g. Almond &
+Coconut Energy
+Balls
+Baked Quinoa
+Chicken Nuggets
+with
+ Side of Choice
+Friday Protein Cottage
+Cheese Pancakes
+Leftover Baked
+Quinoa Chicken
+Nuggets
+E.g. Stuffed
+Banana 
+ Chocolate Bites
+Baked Salmon &
+ Warm Quinoa
+Salad
+Saturday
+Spiced Turmeric 
+ Poached Egg with
+Spinach
+Grilled Vegetable
+ Salad with Tuna,
+Mint & Pistachio
+E.g. Almond &
+Coconut Energy
+Balls
+Meal Out - Enjoy!
+Sunday Protein Cottage
+Cheese Pancakes
+Cured Ham, 
+Pear &
+ Walnut Salad
+E.g. Almond &
+Coconut Energy
+Balls
+Leftover Baked
+Salmon &
+ Warm Quinoa
+Salad
+Sample Weekly Meal Planner
+@iamtimwalcott
+
+================ PAGE 6 ================
+
+Produce Protein Dry Goods Staples & Misc
+1 pear
+3 lemons
+3 limes
+1 large bag spinach
+2 tomatoes
+1 bag rocket
+celery
+1 bulb garlic
+2 zucchinis
+bunch asparagus
+14 oz. (400g)
+cauliflower rice
+1 onion
+3.5 oz. (100g)
+shiitake
+mushrooms
+1 red bell pepper
+7 oz. (200g) sugar
+snaps
+sage
+basil
+mint
+coriander
+parsley
+chives
+6 apricots
+7 oz. (200g) shrimps
+4 salmon fillets
+9 oz. (250g) ground
+pork
+cured ham
+5 oz. (150g) cooked
+chicken
+2 lbs. (900g)
+chicken breast
+cottage cheese
+blue cheese
+Greek yogurt
+Parmesan
+6 eggs
+wheat flour
+quinoa
+almond meal
+pine nuts
+walnuts
+pistachio nuts
+turmeric
+curry powder
+thyme
+allspice
+garlic powder
+cinnamon
+cayenne pepper
+fish spices
+coconut oil
+white wine vinegar
+mayonnaise 
+2 cans tuna in olive
+oil
+1 light coconut milk
+(canned)
+1 full fat coconut
+milk (canned)
+tom yum paste
+fish sauce
+coconut sugar
+maple syrup
+honey
+vanilla extract
+vegetable stock
+cubes
+desiccated coconut
+Weekly Shopping List
+@iamtimwalcott
+
+================ PAGE 7 ================
+
+Breakfast Lunch Snack Dinner
+Monday Cottage Cheese &
+Basil Filled Omelet
+Greek Cucumber
+Salad
+E.g. Yogurt &
+Peanut Butter 
+Protein Fluff
+ High
+Protein Turkey
+Salad
+Tuesday Cottage Cheese &
+Basil Filled Omelet
+Leftover High
+Protein Turkey
+Salad
+E.g. Yogurt &
+Peanut Butter 
+Protein Fluff
+Zesty Chicken
+& Asparagus Salad
+Wednesday Egg & Avocado
+Filling
+Crushed Cucumber
+& Salmon Salad
+E.g. Yogurt &
+Peanut Butter 
+Protein Fluff
+Leftover Zesty
+Chicken &
+Asparagus Salad
+Thursday Green Pea &
+Tofu Paste
+Crushed Cucumber
+& Salmon Salad
+E.g. Yogurt &
+Peanut Butter 
+Protein Fluff
+Sesame Ginger
+Beef Stir Fry
+with Zoodles
+Friday
+The Best
+Sweetcorn
+Fritters
+Leftover Sesame
+Ginger Beef Stir
+Fry with Zoodles
+E.g. Yogurt &
+Peanut Butter 
+Protein Fluff
+Cod with Creamy
+Sauce
+with Zoodles
+Saturday Egg & Avocado
+Filling
+Leftover The Best
+Sweetcorn
+Fritters
+E.g. Yogurt &
+Peanut Butter 
+Protein Fluff
+Meal Out - Enjoy!
+Sunday
+Yogurt & Peanut
+Butter Protein
+Fluff
+Greek Cucumber
+Salad
+E.g. Yogurt &
+Peanut Butter 
+Protein Fluff
+Leftover Cod with
+Creamy Sauce
+with Zoodles
+Sample Weekly Meal Planner Two
+@iamtimwalcott
+
+================ PAGE 8 ================
+
+Produce Protein Dry Goods Staples & Misc
+2 avocados
+6 lemons
+1 lime
+cherry tomatoes
+2 bulbs garlic
+2 cucumbers
+spring onions
+white cabbage
+red cabbage
+2 red bell peppers
+1 carrot
+radishes
+bean sprouts
+spring onions
+ginger
+4 zucchinis
+bunch asparagus
+1 bag rocket
+Frozen green peas
+basil
+coriander
+mint
+chives
+6 oz. (180g) hot
+smoked salmon
+10 oz. (300g) cod
+fillets
+1 lb. (450g) turkey
+breast
+1 lb. (450g) ground
+beef (5% fat)
+4 chicken breasts
+cottage cheese
+Greek yogurt
+feta cheese
+cream
+9 eggs
+natural tofu
+oregano
+paprika
+turmeric
+chili
+sesame seeds
+almonds
+coconut oil
+sesame oil
+sweetcorn
+peanut butter
+black olives
+tahini
+fish sauce
+rice wine vinegar
+white wine vinegar
+soy sauce (reduced
+sodium)
+sundried tomatoes
+honey
+vegetable stock
+Weekly Shopping List Two
+@iamtimwalcott
+
+================ PAGE 9 ================
+
+Pantry Staples
+You should have five basic essentials for these recipes
+in your kitchen. They’re used so frequently that they’re
+not included in the weekly ingredient shopping list.
+These staples are vegetable oils like olive oil for
+cooking and extra virgin olive oil for dressing, a variety
+of vinegar (white and red wine vinegar, apple cider
+vinegar) for adding acidity and balancing flavours in
+marinades, sauces, and condiments, salt (sea or
+Himalayan salt) and black pepper for seasoning.
+
+================ PAGE 10 ================
+
+================ PAGE 11 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+222kcal 11g 13g 14g06370543
+myfitnesspal
+Spiced Turmeric Poached Egg
+Spinach
+Heat a dry pan over medium. Toast the pine nuts for 2
+minutes, then set aside.
+In the same pan, heat 1 tbsp olive oil. Stir-fry spinach and
+tomatoes for 2 minutes or until wilted. Season with salt and
+pepper.
+Boil a pot of water. Add vinegar and turmeric. Reduce heat to
+simmer. Poach each egg for 3 minutes, then remove with a
+slotted spoon.
+Divide the spinach mixture between two bowls. Top each
+with a poached egg and toasted pine nuts. Season with more
+salt and pepper if needed. Serve immediately, breaking the
+eggs just before eating.
+2 tsp. pine nuts
+14 oz. (400g) fresh spinach
+4.4 oz. (125g) tomatoes,
+halved
+1 tbsp. white wine vinegar
+1 tsp. ground turmeric
+2 medium-sized eggs
+Serves 2 15 Minutes
+GF DF LC V Q N
+@iamtimwalcott
+
+================ PAGE 12 ================
+
+================ PAGE 13 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+184kcal 4g 15g 12g07505584
+myfitnesspal
+Cottage Cheese & Basil
+Filled Omelet
+Beat the eggs and water in a bowl. Season with salt and
+pepper.
+Heat oil or butter in a pan over medium heat. Add enough
+egg mixture to make a thin omelet. Cook until set, then keep
+warm under foil. Repeat to make four omelets.
+Finely chop the basil and mix with cottage cheese. Add
+pepper to taste.
+Quarter the cherry tomatoes.
+Divide the cheese mixture and tomatoes among the omelets.
+Roll each omelet tightly.
+Cut diagonally and serve immediately.
+6 large eggs
+4 tbsp. water
+1 tbsp. oil or butter
+1 bunch fresh basil
+7 oz. (200g) cottage cheese
+12 cherry tomatoes
+Serves 4 20 Minutes
+GF LC V Q
+@iamtimwalcott
+
+================ PAGE 14 ================
+
+================ PAGE 15 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+87kcal 0g 6g 7g08413284
+myfitnesspal
+Easy Herby Sausages
+Mix the ground pork with salt, pepper, sage, and basil in a
+bowl. Shape into eight sausages.
+Heat coconut oil in a large non-stick pan over medium heat.
+Cook the sausages until browned and cooked through.
+Serve hot or refrigerate for later.
+8.8 oz. (250g) ground pork
+2 tbsp. chopped sage
+2 tbsp. chopped basil
+1 tbsp. coconut oil
+Serves 8 20 Minutes
+GF DF LC Q
+@iamtimwalcott
+
+================ PAGE 16 ================
+
+================ PAGE 17 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+317kcal 11g 12g 25g03314029
+myfitnesspal
+Egg & Avocado Filling
+Peel and chop the boiled eggs. Place the eggs in a bowl and
+add minced garlic, diced avocado, and chopped coriander.
+Drizzle with lemon juice and olive oil. Season with salt and
+pepper and mix gently.
+Garnish with more coriander. Serve immediately on bread or
+as is.
+3 boiled eggs
+1 small garlic clove, minced
+1 ripe avocado
+1 tsp. lemon juice
+1 tsp. olive oil
+3 tbsp. chopped coriander
+leaves
+Serves 2 20 Minutes
+GF DF LC MP V Q
+@iamtimwalcott
+
+================ PAGE 18 ================
+
+================ PAGE 19 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+146kcal 11g 12g 6g00090711
+myfitnesspal
+Protein Cottage Cheese Pancakes
+Combine cottage cheese, egg yolks, vanilla extract, and flour
+in a bowl. Mix until smooth. 
+Whisk egg whites and coconut sugar into a stiff foam in a
+separate bowl. 
+Fold the egg whites into the cottage cheese mixture to make
+batter. 
+Heat a non-stick pan over medium heat. Spoon 2
+tablespoons of batter per pancake into the pan. Cook for 3
+minutes until browned, then flip and cook for 2 more minutes. 
+Serve warm with Greek yogurt, honey, and berries. 
+8.8 oz. (250g) cottage
+cheese
+3 eggs, yolks and whites
+separated
+1 tsp. vanilla extract
+1 tbsp. coconut sugar
+3 heaped tbsp. flour
+(regular or gluten-free)
+Serves 4 20 Minutes
+LC V Q
+@iamtimwalcott
+
+================ PAGE 20 ================
+
+================ PAGE 21 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+277kcal 15g 7g 21g03148761
+myfitnesspal
+Gluten-Free Tropical Granola
+Preheat the oven to 250°F (120°C) and line two baking
+sheets with parchment paper.
+Blend the pineapple, dates, orange juice, vanilla, and
+cinnamon in a food processor until smooth. Add melted
+coconut oil and blend until combined.
+Mix chopped almonds, cashews, coconut flakes, sunflower
+seeds, and a pinch of salt in a large bowl. Fold in the
+pineapple mixture until well combined.
+Spread the granola evenly on the baking sheets.
+Bake for about 2 hours, stirring every 20 minutes and rotating
+the sheets after 1 hour. Monitor closely in the last 30 minutes
+to prevent burning. Remove when golden brown.
+Cool before transferring to airtight containers.
+Storage: The granola can be stored in airtight containers for
+up to two weeks.
+5.8 oz. (165g) pineapple,
+cubed
+5 Medjool dates, pitted &
+roughly chopped
+2 tbsp. orange juice
+1 tbsp. vanilla extract
+1 tsp. ground cinnamon
+4 tbsp. coconut oil, melted
+14 oz. (400g) almonds,
+roughly chopped
+5.2 oz. (150g) cashew nuts,
+roughly chopped
+3 oz. (90g) coconut flakes,
+unsweetened
+2.4 oz. (70g) sunflower
+seeds
+Serves 20 2 Hours 20 Minutes
+GF DF LC MP V N
+@iamtimwalcott
+
+================ PAGE 22 ================
+
+================ PAGE 23 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+233kcal 3g 17g 17g05408399
+myfitnesspal
+Egg & Smoked Mackerel Paste
+Peel and chop the hard-boiled eggs. Place in a bowl.
+Debone and chop the mackerel. Add to the bowl with the
+eggs.
+Add chopped onion and gherkins.
+Season with salt and pepper. Add mayonnaise, yogurt, and
+chives. Mix well.
+Serve with bread, vegetables, or alone.
+4 eggs, hard-boiled
+7 oz. (200g) smoked
+mackerel
+1 small onion, finely
+chopped
+4 small pickled gherkins,
+chopped
+2 tbsp. light mayonnaise
+2 tbsp. natural yogurt 
+bunch of chives, chopped
+Serves 4 10 Minutes
+GF LC MP Q
+@iamtimwalcott
+
+================ PAGE 24 ================
+
+================ PAGE 25 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+90kcal 1g 8g 6g06504241
+myfitnesspal
+Egg Broccoli & Ham Breakfast
+Muffins
+Preheat the oven to 360°F (180°C).
+Boil the broccoli for 3 minutes, then drain and chop.
+Beat the eggs in a bowl. Add minced garlic, and a pinch of
+salt, and pepper.
+Grease a 6-mold muffin tray. Evenly distribute the broccoli,
+ham, and cheese among the molds.
+Pour the egg mixture into each mold. Bake for 10-15 minutes
+or until set.
+½ head of broccoli
+5 eggs
+1 clove of garlic, minced
+4 slices of ham, chopped
+1 oz. (30g) of grated cheese
+Serves 6 20 Minutes
+GF DF LC MP Q
+@iamtimwalcott
+
+================ PAGE 26 ================
+
+================ PAGE 27 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+373kcal 10g 27g 25g06575267
+myfitnesspal
+High Protein Egg, Bacon & Avo
+Breakfast Bowl
+Fry the bacon in a non-stick pan until crisp.
+Cool slightly, then chop.
+Combine the bacon, eggs, avocado, onion, and bell pepper
+in a bowl.
+Season with salt and pepper. Serve.
+2 bacon medallions
+2 hard-boiled eggs, peeled
+and chopped
+½ large avocado, chopped
+1 tbsp. red onion, finely
+chopped
+1 tbsp. red bell pepper,
+finely chopped
+Serves 1 10 Minutes
+GF DF LC HP Q
+@iamtimwalcott
+
+================ PAGE 28 ================
+
+================ PAGE 29 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+315kcal 7g 20g 23g09754591
+myfitnesspal
+Asian Inspired Scrambled Eggs
+Separate the egg yolks from the whites. Mix the yolks with
+tamari and chopped coriander.
+Heat a non-stick pan over medium heat. Cook the egg whites
+until almost set.
+Reduce heat to low. Fold in the yolk mixture and stir gently
+for 30 seconds until creamy.
+Serve with black sesame seeds and extra coriander. 
+Add avocado slices on the side.
+Serving Suggestion: Crunchy toast! 
+(not included in nutrition details)
+3 eggs
+tamari, a few drops
+2 tbsp. coriander, chopped
+(plus extra for garnish)
+¼ avocado
+½ tsp. black sesame seeds
+Serves 1 10 Minutes
+GF DF LC V QHP
+@iamtimwalcott
+
+================ PAGE 30 ================
+
+================ PAGE 31 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+156kcal 8g 4g 12g05991259
+myfitnesspal
+Garlic Herb Baked Zucchini Fries
+Preheat the oven to 430°F (220°C).
+Cut the zucchini into sticks, like fries. Set aside.
+Whisk the egg in a bowl with plant milk, garlic, oregano,
+thyme, and a pinch of salt and pepper. Set aside.
+Grease a baking tray with 1 tbsp of olive oil.
+Spread breadcrumbs on a plate.
+Dip each zucchini stick in the egg mixture, coat with
+breadcrumbs, and place on the tray.
+Bake for 15 minutes, turning the fries often and drizzling with
+2 tbsp olive oil during cooking.
+Season with salt if needed and serve.
+2 zucchinis
+1 clove garlic, crushed
+1 egg
+1 tsp. plant milk
+4 tbsp. breadcrumbs
+1 tsp. dried oregano
+1 tsp. dried thyme
+Serves 4 35 Minutes
+GF LC Q
+@iamtimwalcott
+
+================ PAGE 32 ================
+
+================ PAGE 33 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+170kcal 15g 5g 10g09438701
+myfitnesspal
+Tofu Summer Rolls 
+with Caesar Sauce
+Slice the tofu into two thin rectangles and press with a towel
+to remove moisture.
+Heat coconut oil in a pan over medium-high heat. Cook tofu
+for 4-5 minutes per side until golden. Remove, cool, and slice
+into 8 strips.
+Dip a rice paper wrapper in warm water until softened, then
+place on a damp towel.
+Add tofu strips, avocado, Parmesan, and lettuce to the
+center.
+Fold the sides inward and roll tightly. Place on a damp towel-
+lined plate. Repeat with the remaining wrappers.
+Serve immediately with Caesar dressing.
+Chef's Secret: To prevent sticking, keep your fingers damp
+when handling rice paper wrappers.
+3.5 oz. (100g) firm tofu
+1 tbsp. coconut oil
+4 Romaine lettuce leaves,
+shredded
+½ avocado, sliced
+2 tbsp. grated Parmesan
+cheese
+4 tbsp. Caesar salad
+dressing
+4 rice paper wrappers
+Serves 4 25 Minutes
+GF LC MP V
+@iamtimwalcott
+
+================ PAGE 34 ================
+
+================ PAGE 35 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+124kcal 19g 3g 4g07933518
+myfitnesspal
+The Best Sweetcorn Fritters
+In a large bowl, combine sweetcorn, coriander, and lemon
+zest. Season with salt and pepper. Then, stir in buckwheat
+flour and water until smooth. 
+Heat coconut oil in a non-stick skillet over high heat. Ladle in
+the mixture, cooking in batches of four fritters, using ½ tsp. of
+oil per fritter. 
+Cook each fritter for 2-3 minutes on each side until browned.
+Note: One fritter is one serve.
+9.8 oz. (280g) organic
+sweetcorn, drained
+1 bunch coriander, chopped
+zest of 1 lemon
+4.2 oz. (120g) buckwheat
+flour
+6.2 fl. oz. (185ml) cold
+water
+4 tsp. coconut oil
+Makes 8 30 Minutes
+GF DF LC V
+@iamtimwalcott
+
+================ PAGE 36 ================
+
+================ PAGE 37 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+172kcal 10g 6g 12g02371025
+myfitnesspal
+Green Pea & Tofu Paste
+Defrost frozen peas in a bowl of boiling water.
+Combine peas, crumbled tofu, avocado, mint leaves, olive oil,
+and lemon juice in a blender. Season with salt and pepper.
+Blend until smooth. 
+Adjust flavor with more mint or lemon juice if needed.
+Serve with toast (not included in nutrition information).
+3.5 oz. (100g) green peas,
+frozen
+1.7 oz. (50g) natural tofu
+¼ avocado
+1 handful of mint leaves
+1 tbsp. olive oil
+1 tbsp. lemon juice
+Serves 2 10 Minutes
+GF DF LC V Q
+@iamtimwalcott
+
+================ PAGE 38 ================
+
+================ PAGE 39 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+98kcal 8g 3g 6g06899172
+myfitnesspal
+Creamy Black Bean Hummus
+Blend ¼ cup black bean water in a food processor with garlic,
+olive oil, tahini, lime juice, cumin, salt, and cayenne until
+smooth.
+Add black beans and blend for 1-2 minutes until creamy.
+Serve with vegetables or crackers.
+Store in a sealed container in the fridge for up to one week.
+1x 14 oz. (400g) can of
+black beans, reserve the
+water
+1 garlic clove, minced
+2 tbsp. olive oil
+2 tbsp. tahini
+2 tbsp. lime juice
+½ tsp. cumin
+½ tsp. salt
+¼ tsp. cayenne pepper
+Serves 8 5 Minutes
+GF DF LC MP V Q
+@iamtimwalcott
+
+================ PAGE 40 ================
+
+================ PAGE 41 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+273kcal 15g 15g 17g05453498
+myfitnesspal
+Kale Tofu Salad with
+Peanut Dressing
+Wrap tofu in a towel and press to remove moisture.
+Combine chopped kale, shredded cabbage, and grated
+carrot in a large bowl.
+Whisk all dressing ingredients in a bowl until smooth.
+Heat coconut oil in a skillet over medium-high heat. Slice tofu
+into strips, season with salt and pepper, and fry for 5 minutes
+on each side until golden.
+To serve, divide salad into bowls, top with tofu, drizzle with
+dressing, and season with black pepper if desired.
+14 oz. (400g) natural tofu
+3 oz. (90g) kale, chopped
+3.5 oz. (100g) purple
+cabbage, shredded
+1 red bell pepper, chopped
+1 oz. (30g) carrot, grated
+1 tbsp. coconut oil
+Dressing:
+3 tbsp. peanut butter
+2 tbsp. coconut milk
+1 tbsp. rice vinegar
+1 tbsp. honey
+1 tbsp. soy sauce
+½ lime, juiced
+½ tsp. chili flakes
+1-2 tbsp. water (adjust to
+desired consistency)
+Serves 4 20 Minutes
+GF DF LC V Q N
+@iamtimwalcott
+
+================ PAGE 42 ================
+
+================ PAGE 43 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+371kcal 17g 24g 23g05989270
+myfitnesspal
+Smoked Salmon &
+Strawberry Salad Mix
+Whisk all dressing ingredients in a bowl.
+Divide lettuce between two plates and top with the remaining
+ingredients.
+Drizzle dressing over salads. Season with black pepper and
+serve immediately.
+2 oz. (60g) lamb's lettuce,
+rocket, or a mix
+3.5 oz (100g) smoked
+salmon, torn
+4.4 oz (125g) mozzarella
+balls, torn
+5.2 oz. (150g) strawberries,
+halved
+A handful of basil leaves
+Dressing:
+1 tbsp. honey
+1 tbsp. olive oil
+1 tbsp. lemon juice
+1 tsp. honey mustard here
+Serves 2 5 Minutes
+GF LC HP Q
+@iamtimwalcott
+
+================ PAGE 44 ================
+
+================ PAGE 45 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+320kcal 14g 21g 20g02677230
+myfitnesspal
+Chicken, Avocado 
+Cucumber Salad
+Combine and toss shredded lettuce and torn basil in a large
+bowl. Divide among 4 serving bowls.
+Season chicken with salt and rub with olive oil. Heat a dry
+pan over medium heat and fry chicken for 5 minutes on each
+side.
+Mix mustard and honey. Brush the filets with half the sauce,
+flip, and cook for 1 and a half minutes. Repeat on the other
+side. Cool slightly, then chop.
+Cube avocado and drizzle with lemon juice. Slice cucumber.
+Mix yogurt, mayonnaise, and minced garlic for the garlic
+sauce. Season with salt and pepper.
+Top salads with chicken, avocado, cucumber, and walnuts.
+Drizzle with garlic sauce and serve.
+½ head of iceberg lettuce,
+shredded
+12 basil leaves, torn
+1 avocado, diced
+2 tsp. lemon juice
+½ cucumber, peeled &
+sliced
+4 tbsp. walnuts, chopped
+10.5 oz. (300g) chicken
+breast filets 
+1 tbsp. olive oil
+1 tbsp. mustard
+1 tbsp. honey
+3 tbsp. yogurt
+1 tbsp. mayonnaise
+1 clove garlic, minced
+Serves 4 25 Minutes
+GF LC MP HP Q N
+@iamtimwalcott
+
+================ PAGE 46 ================
+
+================ PAGE 47 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+486kcal 20g 25g 34g08726568
+myfitnesspal
+Cured Ham, Pear & Walnut Salad
+Whisk all dressing ingredients in a bowl and season with salt
+and pepper.
+Divide the rocket (arugula) between two bowls.
+Top with the remaining ingredients.
+Drizzle dressing over the salads and serve immediately.
+4.4 oz. (125g) rocket
+(arugula)
+1 ripe pear, peeled,
+quartered, cored, & sliced
+3 oz. (85g) blue cheese,
+cubed
+3.5 oz (100g) cured ham,
+cut into strips
+4 tbsp. walnuts, chopped
+Dressing:
+1 tbsp. olive oil
+2 tsp. lemon juice
+1 tbsp. maple syrup
+sea salt & freshly ground
+black pepper, to taste
+Serves 2 15 Minutes
+GF LC HP Q N
+@iamtimwalcott
+
+================ PAGE 48 ================
+
+================ PAGE 49 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+343kcal 15g 10g 27g08458639
+myfitnesspal
+Greek Cucumber Salad
+Whisk all the dressing ingredients in a bowl. Set aside.
+Spiralize the cucumber. Cut into 2-3 inch noodles and place
+in a bowl.
+Add the remaining ingredients to the cucumber bowl.
+Drizzle dressing over the salad and toss gently.
+Divide the salad between two plates and serve immediately.
+1 medium cucumber
+8.8 oz. (250g) cherry
+tomatoes cut in half
+2 spring onions, chopped
+3.5 oz. (100g) feta cheese,
+cubed
+1 oz. (30g) black olives,
+pitted 
+Dressing:
+1 tsp. dried oregano
+1 tbsp. lemon juice
+2 tbsp. olive oil
+1 large garlic clove, crushed
+Serves 2 10 Minutes
+GF LC V Q
+@iamtimwalcott
+
+================ PAGE 50 ================
+
+================ PAGE 51 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+351kcal 13g 23g 23g02836898
+myfitnesspal
+Crushed Cucumber & Salmon Salad
+Combine chopped red bell pepper, crushed cucumber, sliced
+garlic, and chopped coriander in a large bowl. 
+Whisk all dressing ingredients in a bowl. 
+Drizzle dressing over the vegetables and toss to coat. 
+Divide the salad between two plates. 
+Flake salmon and arrange on top. 
+Season with black pepper and serve immediately. 
+1 red bell pepper, chopped
+1 cucumber, crushed &
+chopped
+1 garlic clove, thinly sliced
+handful fresh coriander, to
+taste, chopped
+6 oz. (170g) hot smoked
+salmon filets
+Dressing:
+juice of 1 lime
+1 tbsp. fish sauce
+1 tbsp. rice wine vinegar
+1 tbsp. sesame oil
+1 tbsp. black sesame seeds
+Serves 2 10 Minutes
+GF DF LC HP Q
+@iamtimwalcott
+
+================ PAGE 52 ================
+
+================ PAGE 53 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+228kcal 14g 25g 8g08813020
+myfitnesspal
+High Protein Coronation
+Chicken Salad
+In a bowl, combine and mix mayonnaise, Greek yogurt, and
+curry powder.
+Add chicken, apricots, and celery. Season with salt and
+pepper, then mix well to coat evenly. 
+Serve as a dish with a side salad or use as a sandwich filling. 
+1 tbsp. mayonnaise
+2 tbsp. Greek yogurt
+(0% fat)
+1 tsp. curry powder
+5 oz. (150g) Chicken, pre-
+cooked and cold, chopped
+1.4 oz. (40g) dried apricots,
+chopped
+1 celery stick, chopped
+Serves 2 10 Minutes
+GF LC MP HP Q
+@iamtimwalcott
+
+================ PAGE 54 ================
+
+================ PAGE 55 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+210kcal 13g 17g 10g05486854
+myfitnesspal
+Grilled Veg Salad with Tuna, Mint
+& Pistachio
+Drain the tuna oil into a bowl.
+To make the dressing, blitz lemon zest, lemon juice, tuna oil,
+mint leaves, and garlic in a blender until smooth. Season with
+salt and pepper.
+Slice zucchinis, and season with salt and pepper. Preheat a
+grill pan over medium heat. Grill zucchini for 6 minutes,
+turning once. Grill asparagus for 4 minutes, turning once.
+In a bowl, toss grilled vegetables with the dressing.
+Divide vegetables and tuna among four plates. Sprinkle with
+chopped pistachios and serve.
+1 lemon, zested & juiced
+5.6 oz. (160g) canned tuna
+in olive oil
+0.5 oz. (15g) fresh mint
+leaves
+1 garlic clove, crushed
+2 zucchinis
+12.3 oz. (350g) asparagus
+1.7 oz. (50g) pistachios,
+peeled & chopped
+Serves 4 20 Minutes
+GF DF LC Q N
+@iamtimwalcott
+
+================ PAGE 56 ================
+
+================ PAGE 57 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+398kcal 19g 40g 18g09393826
+myfitnesspal
+High Protein Turkey Salad
+Blend all dressing ingredients in a food processor until
+creamy. Set aside.
+In a separate bowl, combine all salad ingredients and mix
+well.
+Pour the dressing over the salad and toss to coat.
+Serve immediately or refrigerate.
+1 lb. (450g) cooked turkey
+breast, sliced
+2.4 oz. (70g) white
+cabbage, shredded
+2.4 oz. (70g) red cabbage,
+shredded
+1 red bell pepper, finely
+sliced
+1 large carrot, grated
+6 radishes, finely sliced
+3.5 oz. (100g) bean sprouts
+3 green onions, finely sliced
+4 tbsp. chopped coriander
+3 tbsp. toasted sesame
+seeds
+1 oz. (30g) chopped
+almonds
+Dressing:
+4 tbsp. tahini
+4 tbsp. water
+4 tbsp. lemon juice
+1 garlic clove, minced
+1 tbsp. honey
+Serves 5 25 Minutes
+GF DF LC MP HP N
+@iamtimwalcott
+
+================ PAGE 58 ================
+
+================ PAGE 59 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+138kcal 9g 12g 6g06816872
+myfitnesspal
+Easy Salmon Spring Rolls
+Boil a small amount of water. Remove from heat. Dip each
+rice paper sheet in the water for 30 seconds, then lay flat on
+a damp cloth.
+Place coriander leaves, salmon, and black pepper on each
+sheet. Wrap into rolls.
+Heat coconut oil in a pan over medium heat. Fry rolls for 2
+minutes on each side until golden brown.
+Transfer to a paper towel to drain. Serve with tamari and a
+side salad if desired.
+4 sheets rice paper
+fresh coriander
+7 oz. (200g) salmon, cut
+into 4 pieces
+1 tbsp. coconut oil
+2 tbsp. tamari, to serve
+Serves 4 15 Minutes
+GF DF LC MP Q
+@iamtimwalcott
+
+================ PAGE 60 ================
+
+================ PAGE 61 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+242kcal 17g 21g 10g06850289
+myfitnesspal
+Cod with Creamy Sauce 
+with Zoodles
+Cut the cod into pieces. Season with salt, pepper, paprika,
+turmeric, oregano, and chili powder. Coat with buckwheat
+flour.
+Heat 2 tablespoons of oil in a pan over medium heat. Fry the
+cod for 5 minutes per side until golden.
+Combine cream and hot vegetable stock. Pour over the cod.
+Bring to a boil, then simmer for 2-3 minutes. Add chives and
+simmer for 1-2 minutes.
+Use a julienne peeler, spiralizer, or vegetable peeler to make
+zucchini noodles (zoodles).
+Heat 1 teaspoon of oil in another pan over medium heat.
+Sauté garlic for 30 seconds. Add zoodles and cook for 3-4
+minutes until softened. Season with salt and pepper. Stir in
+sundried tomatoes before removing from heat.
+Divide the zoodles between two bowls. Top each with a piece
+of cod and spoon over the sauce.
+10 oz. (300g) cod fillets 
+1 tsp. paprika
+1 tsp. turmeric
+1 tsp. oregano
+½ tsp. chili powder
+1 tbsp. buckwheat flour
+4 tbsp. vegetable stock
+5 tbsp. cream, dairy or
+plant-based 
+3 tbsp. chives, chopped
+2 medium zucchinis
+1 tsp. oil
+1 clove garlic, minced
+4 sun dried tomatoes,
+chopped
+Serves 2 30 Minutes
+GF LC HP Q
+@iamtimwalcott
+
+================ PAGE 62 ================
+
+================ PAGE 63 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+369kcal 17g 28g 21g04494614
+myfitnesspal
+Jerk Chicken Coconut Cauliflower
+Rice
+Combine marinade ingredients in a bowl. Add chicken
+breasts and coat thoroughly. Marinate for at least 15 minutes
+or overnight.
+Heat 1 tbsp coconut oil in a pan over medium-high heat.
+Sauté diced onion for 3 minutes until softened.
+Add minced garlic and cauliflower rice. Cook for 2 minutes,
+then pour in coconut milk. Cook for 10 minutes until
+absorbed. Remove from heat and stir in lime zest and juice.
+Season with salt and pepper.
+Heat the remaining 1 tbsp coconut oil in another pan over
+medium heat. Cook the chicken for 8-10 minutes, turning
+occasionally, until fully cooked and browned.
+Serve the chicken on cauliflower rice. Garnish with chopped
+coriander and lime wedges.
+1 lb. (450g) chicken breast
+14 oz. (400g) cauliflower
+rice
+2 tbsp. coconut oil, divided
+1 onion, diced
+3 garlic cloves, minced
+8 oz. (240ml) light coconut
+milk, canned
+1 lime, zest and juice
+handful of coriander,
+chopped (for garnish)
+lime wedges, for serving
+Marinade:
+1 tsp. dried thyme leaves
+1 tsp. ground allspice
+2 tbsp. brown sugar
+½ tsp. salt
+½ tsp. pepper
+2 tsp. garlic powder
+½ tsp. cinnamon
+½ tsp. cayenne
+2 tbsp. olive oil
+2 tbsp. lime juice
+Serves 4 30 Minutes
+GF DF LC MP HP Q
+@iamtimwalcott
+
+================ PAGE 64 ================
+
+================ PAGE 65 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+275kcal 8g 36g 11g08928894
+myfitnesspal
+Zesty Chicken & Asparagus Salad
+Preheat the oven to 400°F (200°C).
+Grate 2 tbsp of lemon zest, then halve the lemons.
+Mix lemon zest, oregano, olive oil, and garlic in a bowl. Add
+chicken, season with salt and pepper, and toss to coat.
+Place chicken and lemon halves on a baking tray. Bake for
+20-25 minutes until cooked and browned. Cool slightly, then
+chop.
+Heat coconut oil in a skillet over medium heat. Cook
+asparagus and green onions for 3-4 minutes until tender,
+turning occasionally. Cut into 2-inch pieces.
+Arrange the rocket on plates; top with asparagus and green
+onions. Drizzle with white wine vinegar, season with salt and
+pepper, and serve with chicken and roasted lemon halves.
+2 lemons
+1 ½ tbsp. oregano
+1 ½ tbsp. olive oil
+2 tsp. minced garlic
+1.3 lbs. (600g) boneless
+chicken breasts
+8 oz. (225g) asparagus
+8 green onions, trimmed
+1 tsp. coconut oil
+1 ½ tbsp. white wine
+vinegar
+4 oz. (120g) rocket
+(arugula)
+Serves 4 40 Minutes
+GF DF LC MP HP
+@iamtimwalcott
+
+================ PAGE 66 ================
+
+================ PAGE 67 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+227kcal 10g 31g 7g03138511
+myfitnesspal
+Baked Quinoa Chicken Nuggets
+Preheat the oven to 350°F (180°C). 
+Spread cooked quinoa on a parchment-lined baking tray.
+Bake for 20-25 minutes, stirring occasionally until crispy.
+Then, set aside to cool on a plate.
+Increase oven temperature to 390°F (200°C).
+Mix beaten egg, Parmesan, and dried herbs in a bowl. 
+Dip chicken chunks in the egg mixture, then coat with quinoa.
+Arrange on a parchment-lined tray. Bake for 15-20 minutes
+until cooked through.
+1 lb. (450g) chicken
+breasts, cut into chunks
+6.5 oz. (185g) cooked
+quinoa
+1 egg, beaten
+4 tbsp. grated Parmesan
+cheese
+1 tbsp. dried herbs of
+choice
+Serves 4 45 Minutes
+GF LC HP
+@iamtimwalcott
+
+================ PAGE 68 ================
+
+================ PAGE 69 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+382kcal 5g 23g 30g08435032
+myfitnesspal
+Sesame Ginger Beef Stir Fry with
+Zoodles
+Combine soy sauce, rice wine vinegar, and sweetener; set
+aside.
+Heat a non-stick pan over medium heat. Cook beef for 7-10
+minutes until done. Then, push the beef to one side of the
+pan. Add sesame oil, ginger, and garlic to the empty space;
+cook for 1 minute. 
+Pour in the sauce and stir to coat the beef. Cook for 1
+minute. 
+Briefly heat spiralized zucchinis with beef to serve.
+4 tbsp.tamari
+1 tbsp. xylitol (or other
+sweetener)
+2 tbsp rice wine vinegar
+1 lb. (450g) ground lean
+beef (5% fat)
+2 tbsp. sesame oil
+1 tbsp. fresh ginger, grated
+3 cloves garlic, minced
+2 medium zucchinis,
+spiralized
+Serves 4 15 Minutes
+GF DF LC HP Q
+@iamtimwalcott
+
+================ PAGE 70 ================
+
+================ PAGE 71 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+137kcal 10g 13g 5g04042457
+myfitnesspal
+Shrimp Tom Yum Soup
+Pour vegetable stock into a pot and add Tom Yum paste.
+Bring to a boil over medium heat.
+Stir in coconut milk, tomatoes, and mushrooms. Cook for 5
+minutes until tender.
+Add shrimp and cook for 1 minute until pink.
+Remove from heat and season with fish sauce and lime juice.
+Garnish with fresh coriander and chili to serve.
+2.1 pt. (1L) vegetable stock
+2 tbsp. Tom Yum paste
+3.3 fl. oz. (100ml) canned
+coconut milk
+7.9 oz. (225g) canned
+chopped tomatoes
+3.5 oz. (100g) shiitake
+mushrooms, roughly
+chopped
+7 oz. (200g) shrimp, peeled
+& deveined
+2 tbsp. fish sauce
+1 tbsp. lime juice
+fresh coriander
+Fresh red chili
+Serves 4 15 Minutes
+GF DF LC MP Q
+@iamtimwalcott
+
+================ PAGE 72 ================
+
+================ PAGE 73 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+307kcal 19g 33g 11g05882439
+myfitnesspal
+Baked Salmon & 
+Warm Quinoa Salad
+Preheat the oven to 400°F (200°C).
+Cut the red bell pepper into strips. Heat olive oil over medium
+heat and stir-fry the peppers for 5 minutes.
+Place the salmon fillets on a baking tray lined with paper.
+Season and bake for 10 minutes.
+Blanch sugar snap peas with boiling water. Add peas and
+quinoa to the peppers. Heat for 4 minutes, stirring
+occasionally.
+Chop parsley and chives, then mix into the quinoa.
+Serve the quinoa salad with the baked salmon.
+1 red bell pepper
+1 tbsp. olive oil
+1.1 lbs. (520g) salmon fillets
+1 tsp. mixed spices for
+salmon
+7 oz. (200g) sugar snap
+peas
+2.1 pt. (1L) boiling water
+8.8 oz. (250g) cooked
+quinoa
+2 handfuls fresh parsley
+2 tbsp. fresh chives
+Serves 4 25 Minutes
+GF DF LC MP HP Q
+@iamtimwalcott
+
+================ PAGE 74 ================
+
+================ PAGE 75 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+108kcal 12g 6g 4g02455307
+myfitnesspal
+Protein Strawberry Muffins
+Preheat the oven to 350°F (180°C).
+Combine all Dry ingredients in a large bowl. 
+Mix all Wet ingredients in a seperate bowl until smooth.
+Gradually stir the Wet mixture into the Dry ingredients until
+combined. Fold in strawberries and most of the chocolate,
+reserving some for topping.
+Line a muffin tray with liners and spray with oil.
+Distribute the batter evenly among the cups. Top with
+reserved chocolate.
+Bake for 23-25 minutes until set and lightly browned.
+Cool in the tray for 10 minutes, then transfer to a wire rack to
+cool completely.
+Storage Note: Store muffins in an airtight container for 1-2
+days at room temperature or 5-7 days in the refrigerator.
+3.5 oz. (100g) strawberries,
+finely chopped
+4 tbsp. 75% dark chocolate,
+coarsely chopped
+Dry:
+4.2 zo. (120g) oat flour
+4 tbsp. vanilla protein
+powder
+1 tbsp. lemon juice
+zest of ½ a lemon
+2 tbsp. stevia
+½ tsp. baking soda
+pinch of sea salt
+pinch of cinnamon
+Wet:
+1 tbsp. coconut oil, melted
+3.5 oz. (100g)
+(approximately 3 large
+eggs) egg whites
+2 tbsp. unsweetened
+almond milk
+4.4 oz. (125g) non-fat
+Greek yogurt
+1 tsp. vanilla extract
+Makes 12 35 Minutes
+GF LC MP V N
+@iamtimwalcott
+
+================ PAGE 76 ================
+
+================ PAGE 77 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+219kcal 14g 16g 11g09524325
+myfitnesspal
+Yogurt & Peanut Butter Protein
+Fluff
+Whisk all ingredients in a bowl until fluffy.
+Serve across two bowls and top with your choice of garnish.
+Serve Suggestions: banana slices, granola, blueberries (not
+included in nutritional information).
+8.8 oz. (250g) full-fat Greek
+yogurt
+2 tbsp. peanut butter or
+almond butter
+2 tsp. stevia
+Serves 2 5 Minutes
+GF LC V Q N
+@iamtimwalcott
+
+================ PAGE 78 ================
+
+================ PAGE 79 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+116kcal 18g 2g 4g09498305
+myfitnesspal
+Easy Banana & Strawberry Cake
+Preheat the oven to 350°F (180°C).
+Blitz the bananas in a food processor until smooth. 
+Then, add the egg, coconut oil, and xylitol and blend until
+combined. Next, add the wheat flour, buckwheat flour, and
+baking powder and blend into a smooth batter.
+Pour the batter into a greased cake tray and top with halved
+strawberries.
+Bake for 60 minutes or until golden brown and a tester
+comes out clean.
+4 small ripe bananas
+4.5 oz. (130g) wheat flour
+2 oz. (60g) buckwheat flour
+4 tbsp. coconut oil, melted
+2 tbsp. stevia or xylitol
+1 egg
+1 tsp. baking powder
+3.5 oz. (100g) strawberries,
+halved
+Serves 16 1 Hour 10 Minutes
+DF LC MP V
+@iamtimwalcott
+
+================ PAGE 80 ================
+
+================ PAGE 81 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+126kcal 6g 3g 10g09364141
+myfitnesspal
+Ferrero Rocher 
+Energy Balls
+Add 1 cup of hazelnuts to a food processor and pulse until
+finely chopped. Then, add cocoa powder, agave syrup,
+vanilla extract, sea salt, and chocolate chunks. Pulse until the
+mixture clumps. If too dry, add 1-2 teaspoons of water.
+Roll into bite-sized balls, inserting a whole hazelnut into
+each.
+Serve immediately or refrigerate.
+6.3 oz. (180g) hazelnuts,
+plus 12 whole hazelnuts for
+filling
+2 tbsp. cocoa powder
+2 tbsp. maple syrup
+1 tsp. vanilla extract
+pinch of sea salt
+2 tbsp. dark chocolate
+chunks
+Serves 12 10 Minutes
+GF DF LC MP Q N
+@iamtimwalcott
+
+================ PAGE 82 ================
+
+================ PAGE 83 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+164kcal 10g 4g 12g02695503
+myfitnesspal
+Almond & Coconut Energy Balls
+Combine almond meal, honey, and melted coconut oil in a
+bowl. Mix thoroughly with your hands.
+Add lemon juice then form the mixture into 6 balls.
+Roll each ball in desiccated coconut or poppy seeds.
+4.2 oz. (120g) almond meal
+2 tbsp. honey or maple
+syrup
+1 tsp. coconut oil, melted
+½ tsp. lemon juice
+2 tbsp. desiccated coconut
+or poppy seeds
+Serves 6 10 Minutes
+GF DF LC MP Q N
+@iamtimwalcott
+
+================ PAGE 84 ================
+
+================ PAGE 85 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+112kcal 8g 2g 8g05622447
+myfitnesspal
+Mocha Energy Balls
+Melt the chocolate in a bowl using the microwave.
+Heat coconut milk, instant coffee, and sugar in a saucepan
+until nearly boiling.
+Whisk in almond butter and a pinch of sea salt until smooth.
+Pour the hot mixture over the melted chocolate and stir until
+combined.
+Cover with cling film and refrigerate for 2 hours until firm.
+Lightly dust a clean surface with cocoa powder. Scoop a
+spoonful of the chocolate mixture, shape it into a ball, and roll
+it in the cocoa powder. Repeat to make 10 balls.
+Serve at room temperature and store in the fridge.
+3 oz. (85g) dark chocolate,
+70-80%
+5 tbsp. full-fat coconut milk
+2 tbsp. coconut sugar
+2 tbsp. instant coffee
+2 tbsp. almond butter
+pinch of sea salt
+2 tbsp. cocoa powder
+Serves 10 2 Hours 10 Minutes
+GF DF LC MP V N
+@iamtimwalcott
+
+================ PAGE 86 ================
+
+================ PAGE 87 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+138kcal 11g 1g 10g08337399
+myfitnesspal
+Plant-Based Crème Brulee
+Split the vanilla pod and scrape out the seeds. Set both
+aside.
+Combine coconut milk, almond milk, half the brown sugar,
+agar-agar, and the vanilla pod and seeds in a pot. Bring to a
+boil, stirring frequently. Remove from heat and cool to room
+temperature.
+Discard the vanilla pod. Pour the mixture into 4 dishes and
+refrigerate for 1 hour to set.
+Sprinkle the remaining brown sugar over each dish.
+Caramelize with a kitchen torch until golden and bubbly.
+1 vanilla pod
+6.7 fl oz. (200ml) full-fat
+canned coconut milk
+13.5 fl oz. (400ml)
+unsweetened almond milk
+4 tbsp. brown sugar
+2 ½ tsp. agar-agar
+Serves 4 1 Hour 10 Minutes
+GF DF LC V N
+@iamtimwalcott
+
+================ PAGE 88 ================
+
+================ PAGE 89 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+98kcal 9g 2g 6g01530353
+myfitnesspal
+Stuffed Banana Chocolate Bites
+Line a tray with baking paper.
+Peel and slice the bananas. 
+Place ½ teaspoon of peanut butter on a banana slice and top
+with another slice, making about 30 sandwiches.
+Arrange the sandwiches on the tray and freeze for 1 hour.
+Melt the chocolate chips and coconut oil.
+Dip each frozen sandwich into the chocolate, coating half.
+Return to the tray and freeze until the chocolate sets.
+3 ripe bananas
+2.9 oz. (85g) natural peanut
+butter
+3 oz. (90g) dark chocolate
+chips
+2 tsp. coconut oil
+Serves 16 1 Hour 30 Minutes
+GF LC MP V N
+@iamtimwalcott
+
+============================================================
+PACK: 5-INGREDIENT RECIPE PACK
+SOURCE FILE: 5_Ingredient_Recipe_Pack_NEW_Claude_Optimized.txt
+============================================================
+
+COPY OF 5-INGREDIENT RECIPE PACK NEW
+Claude Code / Artifact Optimized Plain Text Export
+
+Formatting Rules:
+- Clean UTF-8 text
+- Consistent recipe structure
+- Minimal visual clutter
+- Preserved nutrition + ingredients + instructions
+- Optimized for parsing, indexing, RAG, and AI ingestion
+
+==================================================
+
+================ PAGE 1 ================
+
+40 HEALTHY TASTY RECIPES FOR EVERY MEAL
+5-IngredientRecipe Pack
+@iamtimwalcott
+
+================ PAGE 2 ================
+
+@iamtimwalcott
+40 Healthy Tasty Recipes for Every Meal
+5-Ingredient Recipe Pack
+
+================ PAGE 3 ================
+
+================ PAGE 4 ================
+
+1. Mushroom & Brie Omelet
+2. Pea, Potato & Goat Cheese Frittata
+3. The Classic Healthy Shakshuka
+4. Cottage Cheese & Salmon Platter
+5. Cottage Cheese & Cinnamon Protein
+Pancakes
+6. Purple Power Protein Smoothie
+7. Cinnamon Spiced Granola
+8. Strawberry & Cottage Cheese
+Smoothie Bowl
+9. High Protein Vanilla Porridge
+10. Chickpea & Tomato Bruschetta
+11. Roasted Pepper Pesto Pasta Salad
+12. The Best Chickpea & Quinoa
+Tabbouleh
+13. Baked Lentil & Parsley Falafels
+14. Beef, Zucchini & Quinoa Burgers
+15. Easy Spicy Tuna
+@iamtimwalcott
+Contents
+16. Spiced Cajun Salmon with Corn Salsa
+Salad
+17. Oven Baked Carrot Fritters
+18. Spiced Curry Cauliflower Soup
+19. Quinoa, Beetroot & Feta Salad
+20. Mexican Veggie Chili Salad
+21. Easy Slow Cooker Chicken Fajita
+22. One Pot Lemon Chicken with Capers
+23. Prosciutto Wrapped Chicken with
+Warm Lentils & Tomato Salad
+24. Creamy Spanish Risotto
+25. Salmon En Papillote
+26. Chickpea & Broccoli Coconut Curry
+27. Easy Stuffed Mexican Peppers
+28. Sesame Crusted Miso Tuna Steak
+Salad
+29. Cod & Vegetable Curry
+30. Easy Pork Meatballs in Tomato
+Sauce
+
+================ PAGE 5 ================
+
+31. Smoked Sweet Potato Hummus
+32. Oatmeal Tahini Protein Balls
+33. Almond & Cranberry Balls
+34. Peanut & Cranberry Cookies
+35. Delicious Sweet Potato & Black Bean
+Brownies
+36. Apple Bites
+37. Easy Pumpkin Spiced Cake
+38. Citrusy Coconut Chia Pudding
+39. Blueberry Cottage Cheese Ice Cream
+40. Tropical Spiced Carrot Smoothie
+@iamtimwalcott
+Contents & Key
+GF
+DF
+LC
+MP
+HP
+V
+Q
+N
+Gluten Free
+Dairy Free
+Low Carb (<20g per serve)
+Meal Prep/Freezer Friendly
+High Protein (>20g per serve)
+Vegetarian
+Quick (under 30 mins)
+Contains Nuts
+
+================ PAGE 6 ================
+
+@iamtimwalcott
+Breakfast Lunch Snack Dinner
+Monday Mushroom &
+Brie Omelet
+Easy Spicy
+Tuna
+E.g. Almond &
+Cranberry Balls
+Easy Pork
+Meatballs
+in Tomato
+Sauce
+Tuesday Mushroom &
+Brie Omelet
+Easy Spicy
+Tuna
+E.g. Almond &
+Cranberry Balls
+One Pot Lemon
+Chicken with
+Capers
+Wednesday
+Purple Power
+Protein
+Smoothie
+Leftover One
+Pot Lemon
+Chicken with
+Capers
+E.g. Almond &
+Cranberry Balls
+Easy Stuffed
+Mexican
+Peppers
+Thursday
+The Classic
+Healthy
+Shakshuka
+Spiced Curry
+Cauliflower
+Soup
+E.g. Almond &
+Cranberry Balls
+Easy Stuffed
+Mexican
+Peppers
+Friday
+The Classic
+Healthy
+Shakshuka
+Spiced Curry
+Cauliflower
+Soup
+E.g. Almond &
+Cranberry Balls
+Salmon En
+Papillote
+Saturday
+Chickpea &
+Tomato
+Bruschetta
+Leftover Salmon
+En Papillote
+E.g. Almond &
+Cranberry Balls
+Meal Out -
+Enjoy!
+Sunday
+Purple Power
+Protein
+Smoothie
+Chickpea &
+Tomato
+Bruschetta
+E.g. Almond &
+Cranberry Balls
+Easy Pork
+Meatballs
+in Tomato
+Sauce
+Sample Weekly Meal Planner
+
+================ PAGE 7 ================
+
+Produce Protein Dry Goods Staples & Misc
+1 banana
+4 lemons
+large bag rocket
+1 beetroot
+1 cauliflower
+garlic
+green onions
+7 oz. (200g)
+mushrooms
+5 red bell peppers
+1 yellow bell
+pepper
+2 red onions
+3 white onions
+1 zucchini
+dill
+parsley
+cranberries
+dates
+frozen berries
+4 oz. (115g) tuna
+steak
+12 oz. (340g)
+salmon fillet
+1 lb. (450g)
+chicken breast
+14 oz. (400g) lean
+ground beef
+14 oz. (400g) lean
+ground pork
+brie cheese
+butter
+12 eggs
+almond milk
+red lentils
+white rice
+oats
+almonds
+sesame seeds
+fennel seed
+sesame oil
+chickpeas
+almond butter
+2 cans diced
+tomato
+apple cider
+vinegar
+capers
+sriracha
+tahini
+tomato passata
+yellow curry paste
+bread
+vanilla whey
+@iamtimwalcott
+Weekly Shopping List
+
+================ PAGE 8 ================
+
+@iamtimwalcott
+Breakfast Lunch Snack Dinner
+Monday
+Pea, Potato &
+Goat Cheese
+Frittata
+Quinoa,
+Beetroot & Feta
+Salad
+E.g. Citrusy
+Coconut Chia
+Pudding
+Creamy
+Spinach Risotto
+Tuesday
+Pea, Potato &
+Goat Cheese
+Frittata
+Quinoa,
+Beetroot & Feta
+Salad
+E.g. Citrusy
+Coconut Chia
+Pudding
+Spiced Cajun
+Salmon with
+Corn Salsa
+Salad
+Wednesday Cinnamon
+Spiced Granola
+Leftover Spiced
+Cajun Salmon
+with Corn Salsa
+Salad
+E.g. Citrusy
+Coconut Chia
+Pudding
+Cod &
+Vegetable Curry
+Thursday
+Cottage Cheese
+& Cinnamon
+Protein
+Pancakes
+Beef, Zucchini &
+Quinoa Burgers
+E.g. Citrusy
+Coconut Chia
+Pudding
+Cod &
+Vegetable Curry
+Friday
+Cottage Cheese
+& Cinnamon
+Protein
+Pancakes
+Beef, Zucchini &
+Quinoa Burgers
+E.g. Citrusy
+Coconut Chia
+Pudding
+Easy Slow
+Cooker
+Chicken Fajita
+Saturday
+Oven Baked
+Carrot
+Fritters
+Leftover Easy
+Slow Cooker
+Chicken Fajita
+E.g. Citrusy
+Coconut Chia
+Pudding
+Meal Out -
+Enjoy!
+Sunday Cinnamon
+Spiced Granola
+Oven Baked
+Carrot
+Fritters
+E.g. Citrusy
+Coconut Chia
+Pudding
+Creamy
+Spinach Risotto
+Sample Weekly Meal Planner
+
+================ PAGE 9 ================
+
+Produce Protein Dry Goods Staples & Misc
+2 clementines
+2 kiwis
+1 lemon
+1 lime
+large bag rocket
+2 beetroots
+4 carrots
+2 boxes cherry
+tomato
+2 corn on the
+cobs
+garlic
+7 oz. (200g) baby
+potatoes
+2 red bell peppers
+3 white onions
+1 zucchini
+frozen green peas
+frozen spinach
+1.3 lbs. (600g)
+white fish filets
+1.5 lbs. (680g)
+salmon filet 
+1.5 lbs. (680g)
+chicken breast
+14 oz. (400g) lean
+ground beef
+feta cheese
+goat cheese
+parmesan
+cottage cheese
+15 eggs
+coconut milk
+(canned)
+coconut milk
+(carton)
+risotto rice
+quinoa
+cajun spice
+cinnamon
+ground coriander
+ground cumin
+chia seeds
+walnuts
+coconut oil
+yellow curry paste
+almond butter
+chickpeas
+salsa (16
+oz./450g)
+vegetable stock
+maple syrup
+@iamtimwalcott
+Weekly Shopping List
+
+================ PAGE 10 ================
+
+Pantry Staples
+You should have five basic essentials for these recipes
+in your kitchen. They’re used so frequently that they’re
+not included in the weekly ingredient shopping list.
+These staples are vegetable oils like olive oil for
+cooking and extra virgin olive oil for dressing, a variety
+of vinegar (white and red wine vinegar, apple cider
+vinegar) for adding acidity and balancing flavours in
+marinades, sauces, and condiments, salt (sea or
+Himalayan salt) and black pepper for seasoning.
+
+================ PAGE 11 ================
+
+================ PAGE 12 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+359kcal 4g 25g 27g
+@iamtimwalcott
+04716358
+myfitnesspal
+Mushroom & Brie Omelet
+Heat a large non-stick pan over high heat with splash of olive
+oil. Add mushrooms and garlic and cook, stirring, for 5-7
+minutes. Transfer to a bowl.
+Heat a little olive oil over medium-high heat in a small non-
+stick pan.
+Whisk eggs with ¼ cup (60ml) cold water. Season with salt
+and pepper.
+Pour a quarter of the egg mixture into the pan. Cook until
+starting to set, then add mushrooms and brie. Cook until the
+cheese melts.
+Transfer to a plate, top with rocket, and serve.
+Repeat with the remaining ingredients for three more
+omelets.
+1 clove garlic, minced
+7 oz. (200g) mushrooms,
+sliced
+8 eggs
+7 oz. (200g) brie cheese,
+sliced
+4 oz. (120g) rocket
+(arugula)
+Serves 4 30 Minutes
+GF LC HP V
+
+================ PAGE 13 ================
+
+================ PAGE 14 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+302kcal 16g 19g 18g
+@iamtimwalcott
+02995018
+myfitnesspal
+Pea, Potato &
+Goat Cheese Frittata
+Heat a 7.8-inch (20 cm) ovenproof non-stick pan over
+medium heat and grease with olive oil. Cook the potato slices
+for 5-6 minutes per side until golden and tender. Set aside.
+Defrost and drain the peas in hot water.
+Whisk the eggs with salt and pepper.
+Preheat the grill to medium. In the pan, layer half the
+potatoes, followed by half the peas and goat cheese. Repeat
+the layers and pour the eggs over them.
+Cook on low-medium for 10 minutes until eggs are nearly set.
+Grill for 5 minutes until fully set.
+Cut into wedges and serve with rocket.
+4 baby potatoes, thinly
+sliced
+4.2 oz. (120g) frozen peas
+8 eggs
+3 oz. (90g) goat’s cheese,
+crumbled
+4.2 oz. (120g) rocket
+(arugula)
+Serves 4 25 Minutes
+GF LC MP V Q
+
+================ PAGE 15 ================
+
+================ PAGE 16 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+305kcal 22g 16g 17g
+@iamtimwalcott
+01600483
+myfitnesspal
+The Classic Healthy Shakshuka
+Heat 1 tbsp olive oil in a non-stick pan over medium-high
+heat. Cook onion and bell peppers for 5 minutes until
+softened.
+Add chopped tomatoes and cook for 5 more minutes.
+Make 4 wells in the mixture and crack an egg into each.
+Reduce heat to low, cover partially, and cook for 10 minutes
+or until eggs are done.
+Sprinkle with parsley, season with salt and pepper, and
+serve.
+1 white onion, sliced
+2 bell peppers, sliced
+2 cans (14 oz./400g each)
+chopped tomatoes
+4 eggs
+4 tbsp. parsley leaves,
+chopped
+Serves 2 25 Minutes
+GF DF MP V Q
+
+================ PAGE 17 ================
+
+================ PAGE 18 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+187kcal 8g 14g 11g
+@iamtimwalcott
+05686431
+myfitnesspal
+Cottage Cheese & Salmon Platter
+Peel the cucumber into ribbons and mix with 2 tablespoons
+of apple cider vinegar and salt in a bowl. Set aside.
+Divide smoked salmon, avocado, and cottage cheese among
+four plates.
+Top with cucumber ribbons and drizzle with cucumber juices.
+Season with dried dill, salt, and pepper. Serve immediately.
+1 cucumber
+7 oz. (200g) smoked
+salmon
+1 avocado
+3.8 oz. (110g) cottage
+cheese
+1 tsp. dried dill
+Serves 4 15 Minutes
+GF LC Q
+
+================ PAGE 19 ================
+
+================ PAGE 20 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+125kcal 10g 10g 5g
+@iamtimwalcott
+03093025
+myfitnesspal
+Cottage Cheese &
+Cinnamon Pancakes
+Blend all ingredients until smooth.
+Heat ½ tablespoon coconut oil in a pan over medium heat. 
+Pour ¼ cup batter per pancake into the pan. Cook until
+bubbles form, then flip and cook until golden brown.
+Repeat with the remaining batter. 
+Serve with your favorite toppings, like banana slices, nuts or
+honey.
+7.9 oz. (225g) cottage
+cheese
+2.8 oz. (80g) rolled oats
+5 eggs
+2 tsp. cinnamon
+1 tbsp. maple syrup
+Serves 4 20 Minutes
+MP V Q
+
+================ PAGE 21 ================
+
+================ PAGE 22 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+335kcal 53g 24g 3g
+@iamtimwalcott
+06891428
+myfitnesspal
+Purple Power Protein Smoothie
+Blend all ingredients in a blender until smooth. Serve.8 fl. oz. (240ml) almond milk
+5.2 oz. (150g) frozen
+berries
+1 banana
+1 medium cooked beetroot,
+grated
+1 oz. (28g) vanilla whey
+protein powder
+Serves 1 5 Minutes
+GF MP HP V Q N
+
+================ PAGE 23 ================
+
+================ PAGE 24 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+144kcal 15g 3g 8g
+@iamtimwalcott
+01887297
+myfitnesspal
+Cinnamon Spiced Granola
+Preheat the oven to 325°F (160°C) and line a baking tray
+with parchment paper.
+Mix oats, walnuts, cinnamon, and a pinch of salt in a large
+bowl. Stir in almond butter and maple syrup until combined.
+Spread the mixture on the tray and bake for 15 minutes. Stir,
+then bake for another 10-12 minutes until golden.
+Cool on a wire rack and store in an airtight container for up to
+one week.
+5.6 oz. (160g) rolled oats
+4 oz. (115g) walnuts,
+chopped
+1 tbsp. cinnamon
+4 tbsp. almond butter
+½ cup maple syrup
+Serves 16 40 Minutes
+DF LC MP V N
+
+================ PAGE 25 ================
+
+================ PAGE 26 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+314kcal 37g 19g 10g
+@iamtimwalcott
+05761948
+myfitnesspal
+Strawberry & Cottage Cheese
+Smoothie Bowl
+Blend cottage cheese, strawberries, and maple syrup in a
+blender until smooth.
+Divide into 4 bowls. Top with granola and berries. Serve.
+1.3 lbs. (600g) cottage
+cheese
+7.9 oz. (225g) frozen
+strawberries, thawed
+4 tbsp. maple syrup
+½ cup granola
+5.2 oz. (150g) mixed berries
+Serves 4 15 Minutes
+GF MP V Q N
+
+================ PAGE 27 ================
+
+================ PAGE 28 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+387kcl 44g 19g 15g
+@iamtimwalcott
+02466750
+myfitnesspal
+High Protein Vanilla Porridge
+Boil almond milk in a small pot. Stir in oats and cook on low
+for 5-7 minutes, stirring often. 
+Remove from heat and mix in protein powder. 
+Divide into bowls and top with banana slices and walnuts.
+Serve.
+17 fl. oz. (480ml)
+unsweetened almond milk
+2.8 oz. (80g) oats
+1 oz. (30g) vanilla whey
+protein powder
+1 banana, sliced
+1 oz. (30g) walnuts,
+chopped
+Serves 2 12 Minutes
+MP V Q N
+
+================ PAGE 29 ================
+
+================ PAGE 30 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+367kcal 44g 14g 15g
+@iamtimwalcott
+08456892
+myfitnesspal
+Chickpea & Tomato Bruschetta
+Toast the bread.
+Mash chickpeas with tahini, 1 tsp apple cider vinegar, salt,
+and pepper. 
+Mix cherry tomatoes, parsley, and 1 tbsp olive oil. 
+Spread chickpeas on toast, top with tomatoes, and serve.
+2 slices bread
+5.8 oz. (165g) chickpeas,
+drained
+1 tbsp. tahini
+2.6 oz. (75g) cherry
+tomatoes, quartered
+1 tbsp. parsley, chopped
+Serves 2 10 Minutes
+DF MP V Q
+
+================ PAGE 31 ================
+
+================ PAGE 32 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+497kcal 67g 19g 17g
+@iamtimwalcott
+03136018
+myfitnesspal
+Roasted Pepper Pesto Pasta Salad
+Cook the pasta according to the package instructions. Drain
+and rinse with cold water.
+Mix the pasta with roasted peppers, pesto, mozzarella, and
+rocket. Toss well.
+Season with salt and pepper. Serve immediately or
+refrigerate for up to 3 days.
+11 oz. (320g) whole wheat
+pasta
+13 oz. (360g) roasted
+peppers, drained & sliced
+6 tbsp. basil pesto
+4.4 oz. (125g) mozzarella,
+chopped
+4 oz. (120g) rocket
+(arugula)
+Serves 4 30 Minutes
+MP V
+
+================ PAGE 33 ================
+
+================ PAGE 34 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+342kcal 43g 11g 14g
+@iamtimwalcott
+00361194
+myfitnesspal
+The Best Chickpea & 
+Quinoa Tabbouleh
+Cook quinoa per package instructions. Drain and set aside.
+Mix a bowl of quinoa, chickpeas, tomatoes, cucumber,
+parsley, 3 tbsp olive oil, and 2 tbsp red wine vinegar. Season
+with salt and pepper. Chill in the fridge.
+Serve cold.
+4.5 oz. (130g) quinoa,
+uncooked
+1 can (14 oz./400g)
+chickpeas, drained
+2 medium tomatoes, diced
+1 small cucumber, diced
+2 oz. (60g) parsley,
+chopped
+Serves 4 25 Minutes
+GF DF MP V Q
+
+================ PAGE 35 ================
+
+================ PAGE 36 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+198kcal 26g 10g 6g
+@iamtimwalcott
+09499818
+myfitnesspal
+Baked Lentil & Parsley Falafels
+Preheat the oven to 350°F (180°C).
+Pulse lentils, parsley, garlic, lemon juice, 1 ½ tbsp. olive oil,
+and 1 tsp salt in a food processor until crumbly and sticking
+together. Stir in flour.
+Form patties with a large tablespoon of the mixture and place
+on a baking sheet.
+Bake for 18-20 minutes.
+Serve warm or cold in salads, sandwiches, poke bowls, or
+with dips. Store any leftovers in the refrigerator for 2-3 days.
+14 oz. (400g) cooked lentils
+2 oz. (60g) fresh parsley
+2 cloves garlic
+juice of 1 lemon
+2 tbsp. all-purpose flour
+Serves 4 30 Minutes
+DF MP V
+
+================ PAGE 37 ================
+
+================ PAGE 38 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+162kcal 6g 12g 10g
+@iamtimwalcott
+08701794
+myfitnesspal
+Beef, Zucchini & Quinoa Burgers
+Grate and squeeze the zucchini to remove moisture. 
+Mix the zucchini with beef, quinoa, garlic, egg, salt, and
+pepper in a bowl. 
+Form into 8 patties. 
+Cook in a hot, oiled grill pan for 5-6 minutes per side.
+Store in an airtight container in the fridge for 3-4 days.
+1 zucchini, grated
+14 oz. (400g) lean ground
+beef
+6.5 oz. (185g) cooked
+quinoa
+2 cloves garlic, minced
+1 egg, beaten
+Serves 8 55 Minutes
+GF DF LC MP
+
+================ PAGE 39 ================
+
+================ PAGE 40 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+103kcal 4g 15g 3g
+@iamtimwalcott
+02561305
+myfitnesspal
+Easy Spicy Tuna
+Cut the tuna into small cubes. Mix with sriracha, sesame oil,
+and white parts of the green onions. Transfer to a bowl. 
+Garnish with green onion tops and sesame seeds. Serve.
+Serving suggestion: Steamed white rice.
+4 oz. (115g) sashimi-grade
+tuna
+1 ½ tbsp. sriracha sauce
+2 green onions, sliced
+(white & green parts
+separated)
+1 tsp. sesame seeds
+1 tsp. sesame oil
+Serves 2 15 Minutes
+GF DF LC Q
+
+================ PAGE 41 ================
+
+================ PAGE 42 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+425kcal 21g 38g 21g
+@iamtimwalcott
+07882841
+myfitnesspal
+Spiced Cajun Salmon with Corn
+Salsa Salad
+Preheat the oven to 425°F (220°C). 
+Rub Cajun seasoning mixed with 2 tbsp olive oil onto the
+salmon filets. 
+Bake the salmon on a tray for 12-15 minutes until done. 
+Cut corn kernels off the cobs and place them in a bowl. Add
+cherry tomatoes and coriander, and toss. 
+Serve the corn salsa with salmon filets on 4 plates.
+2 corn cobs, cooked
+10.5 oz. (350g) cherry
+tomatoes, quartered
+2 oz. (60g) coriander leaves
+4 salmon filets (6 oz/170g
+each)
+2 tbsp. cajun seasoning
+Serves 4 20 Minutes
+GF DF MP HP Q
+
+================ PAGE 43 ================
+
+================ PAGE 44 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+37kcal 6g 1g 1g
+@iamtimwalcott
+04943358
+myfitnesspal
+Oven Baked Carrot Fritters
+Preheat the oven to 400°F (200°C) and line a tray with
+parchment paper.
+Mix grated carrots, egg, flour, garlic, cumin, salt, and pepper
+in a bowl.
+Spoon a heaping tablespoon of batter onto the tray and
+flatten slightly.
+Bake for 12 minutes, flip, and bake for another 12 minutes
+until golden.
+Serve hot or cold. Store leftovers in an airtight container for
+2-3 days.
+4 medium carrots, grated
+1 small egg
+4 tbsp. all-purpose flour
+1 clove garlic, minced
+1 tsp. ground cumin
+Serves 10 30 Minutes
+DF LC MP V
+
+================ PAGE 45 ================
+
+================ PAGE 46 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+308kcal 44g 15g 8g
+@iamtimwalcott
+07598951
+myfitnesspal
+Spiced Curry Cauliflower Soup
+Preheat the oven to 400°F (200°C). Drizzle ¼ of the
+cauliflower with 1 tablespoon of olive oil, and season with 1
+teaspoon of fennel seeds, salt, and pepper. Set aside.
+Heat 1 tablespoon of olive oil in a pot. Sauté the chopped
+onion and 1 teaspoon of fennel seeds for 3-4 minutes until
+softened. Add the remaining cauliflower, lentils, curry paste,
+and 1 liter of water. Bring to a boil, then reduce the heat and
+simmer for 25 minutes.
+While the soup simmers, roast the cauliflower in the oven for
+20 minutes.
+Blend the soup until smooth. Serve topped with the roasted
+cauliflower.
+1 yellow onion, chopped
+1 cauliflower head,
+separated into small florets
+2 tsp. fennel seeds
+6.7 oz. (190g) red lentils,
+dry
+3 tbsp. yellow curry paste
+Serves 4 35 Minutes
+GF DF MP V
+
+================ PAGE 47 ================
+
+================ PAGE 48 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+405kcal 38g 16g 21g
+@iamtimwalcott
+07775499
+myfitnesspal
+Quinoa, Beetroot
+& Feta Salad
+Mix quinoa, feta, beetroot, and chickpeas in a bowl. 
+Drizzle with olive oil and lemon juice, and add grated lemon
+zest. Season with salt and pepper. 
+Divide into 4 plates and serve.
+13 oz. (370g) cooked
+quinoa
+7 oz. (200g) feta cheese,
+cubed
+2 medium beets, cooked &
+cubed
+5.8 oz. (165g) chickpeas,
+drained
+1 lemon, zest and juice
+Serves 4 10 Minutes
+GF MP V Q
+
+================ PAGE 49 ================
+
+================ PAGE 50 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+162kcal 28g 8g 2g
+@iamtimwalcott
+05832958
+myfitnesspal
+Mexican Veggie Chili Salad
+Mix everything with salsa in a bowl. 
+Store in an airtight container in the fridge for up to 3 days.
+14 oz. (400g) can black
+beans, rinsed & drained
+7 oz. (200g) can sweet
+corn, rinsed & drained
+1 red bell pepper, sliced
+bunch of coriander,
+chopped
+5 oz. (150g) hot salsa
+Serves 4 10 Minutes
+GF DF MP V Q
+
+================ PAGE 51 ================
+
+================ PAGE 52 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+175kcal 10g 27g 3g
+@iamtimwalcott
+01825208
+myfitnesspal
+Easy Slow Cooker Chicken Fajita
+Add all ingredients, and a pinch of salt to a slow cooker. Stir.
+Cook on high for 4 hours or low for 6 hours until tender.
+Shred the chicken and return it to the slow cooker. Mix in
+lime juice and season with salt and pepper.
+1.5 lbs. (680g) chicken
+breast
+1 large onion, sliced
+2 bell peppers, sliced
+16 oz. (450g) jar salsa
+juice of 1 lime
+Serves 6 4-6 Hours
+GF DF LC MP HP
+
+================ PAGE 53 ================
+
+================ PAGE 54 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+327kcal 4g 26g 23g
+@iamtimwalcott
+05861668
+myfitnesspal
+One Pot Lemon Chicken with Capers
+Place a chicken breast between cling film and pound to 1.5
+cm thick. Season with salt and pepper.
+Heat ¼ of the butter in a pan over medium-high heat. Cook
+the chicken for 4 minutes per side until golden. Transfer to a
+plate.
+Add the remaining butter to the pan. Stir until melted and
+golden. Add capers and cook for 1 minute. Stir in lemon juice
+and half the lemon zest.
+Return chicken and juices to the pan. Cook for 2-3 minutes,
+turning occasionally, until the chicken is done and the sauce
+thickens.
+Sprinkle with parsley and the remaining lemon zest before
+serving.
+1 lb. (450g) chicken breast
+3.5 oz. (100g) butter
+4 tbsp. capers, drained
+3 lemons, zested & juiced
+0.5 oz. (15g) parsley,
+chopped
+Serves 4 30 Minutes
+GF LC MP HP Q
+
+================ PAGE 55 ================
+
+================ PAGE 56 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+474kcal 42g 46g 14g
+@iamtimwalcott
+06334516
+myfitnesspal
+Prosciutto Wrapped Chicken with
+Salad
+Preheat the oven to 360°F (180°C). 
+Cut chicken thighs into two pieces. Season with salt and
+pepper. Spread 1 teaspoon of pesto on each piece, wrap
+with prosciutto, and place on a baking tray. Bake for 25-30
+minutes until crispy and cooked through.
+Heat lentils and sun-dried tomatoes in a pot. Stir in 2 tbsp
+apple cider vinegar and 2 tbsp of the sun-dried tomato oil.
+Serve the lentils topped with chicken.
+4 skinless chicken thighs
+(17 oz./480g)
+8 prosciutto slices
+8 tsp. red pesto
+2 cans (14 oz./400g each)
+lentils, drained
+5 oz. (145g) sun-dried
+tomatoes, drained (save 2
+tbsp. oil)
+Serves 4 30 Minutes
+GF LC MP HP Q
+
+================ PAGE 57 ================
+
+================ PAGE 58 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+445kcal 68g 14g 13g
+@iamtimwalcott
+06689650
+myfitnesspal
+Creamy Spinach Risotto
+Heat 2 tablespoons of olive oil in a large pan over medium
+heat. Add the diced onion and cook for 5 minutes until
+softened.
+Add the risotto rice and cook for 3 more minutes, stirring
+occasionally. Season with salt and pepper.
+Lower the heat and add vegetable stock 1 cup at a time,
+stirring often. Wait until the stock is mostly absorbed before
+adding more. Cook for 16-18 minutes until the rice is done.
+Stir in the frozen spinach and cook until heated through. 
+Remove from heat and mix in the Parmesan cheese. Adjust
+seasoning as needed. Serve immediately.
+1 yellow onion, diced
+10.5 oz. (300g) risotto rice,
+dry
+2.5 pt. (1.2L) vegetable
+stock
+8 oz. (225g) spinach, frozen
+3 oz. (85g) Parmesan
+cheese, grated
+Serves 4 40 Minutes
+GF MP V
+
+================ PAGE 59 ================
+
+================ PAGE 60 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+409kcal 10g 36g 25g
+@iamtimwalcott
+02517526
+myfitnesspal
+Salmon En Papillote
+Preheat the oven to 350°F (180°C).
+Cut two large pieces of baking paper. 
+Layer 8 zucchini slices and some onion on each. Drizzle with
+1 tablespoon of olive oil and season with salt and pepper.
+Place a salmon fillet on each. Season, then top with dill and
+lemon slices.
+Fold the paper to seal each parcel. Bake for 18-20 minutes
+until the salmon is cooked.
+Serve immediately by tearing open the paper.
+1 zucchini, sliced
+1 red onion, sliced
+2 salmon filets (6 oz./170 g
+each)
+4 tbsp. dill
+1 lemon, sliced
+Serves 2 25 Minutes
+GF DF LC MP HP Q
+
+================ PAGE 61 ================
+
+================ PAGE 62 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+421kcal 43g 15g 21g
+@iamtimwalcott
+07329685
+myfitnesspal
+Chickpea & Broccoli Coconut Curry
+Heat oil in a pan over medium-high heat. Sauté the broccoli
+for 3-4 minutes. Add the red curry paste and cook for 2
+minutes.
+Pour the coconut milk and let it simmer for 5-8 minutes. Stir
+in the chickpeas and simmer.
+Mix the cornstarch with 2 tablespoons of cold water, then add
+to the pan. Simmer for 1 minute, reduce the heat, and let cool
+slightly before serving.
+Serving suggestions: Steamed white rice and garnish with
+fresh coriander.
+1 x 14 fl. oz. (400 ml) can
+coconut milk
+2 tbsp. red curry paste
+2 broccoli heads, cut into
+florets
+1 x 14 oz. (400 g) can
+chickpeas, rinsed & drained
+1 tbsp. cornstarch
+Serves 4 15 Minutes
+DF MP V Q
+
+================ PAGE 63 ================
+
+================ PAGE 64 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+274kcal 23g 23g 10g
+@iamtimwalcott
+04944517
+myfitnesspal
+Easy Stuffed Mexican Peppers
+Preheat the oven to 375°F (190°C). 
+Brown beef in a pan over medium-high heat for 5-7 minutes. 
+Add tomatoes and rice, then bring to a boil. Reduce heat and
+simmer, covered, for 6-8 minutes.
+While the mixture simmers, cut off the tops of the peppers
+and remove the seeds. Stuff the peppers with the beef
+mixture. 
+Cover with foil and bake for 35 minutes, until the peppers are
+tender.
+4 bell peppers
+14 oz. (400g) lean ground
+beef
+1 x 14 oz. (400g) can
+chopped tomatoes
+5.6 oz. (160g) cooked rice
+2 tbsp. Mexican spice blend
+Serves 4 1 Hour
+GF DF MP HP
+
+================ PAGE 65 ================
+
+================ PAGE 66 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+377kcal 15g 41g 17g
+@iamtimwalcott
+02679028
+myfitnesspal
+Sesame Crusted Miso 
+Tuna Steak Salad
+Heat 1 tablespoon of olive oil in a pan over medium-high
+heat.
+Rub tuna steaks with miso paste and coat with sesame
+seeds. Cook for 1 ½ minutes per side, then set aside.
+In the same pan, cook spring onions and green beans for 3-4
+minutes until tender. Season with salt and pepper, then
+divide between two plates.
+Slice tuna and place on top of the vegetables. Serve
+immediately.
+1 tbsp. white miso
+2 tuna steaks (5 oz / 140g
+each)
+4 tbsp. sesame seeds
+bunch of spring onions,
+trimmed & sliced
+7 oz. (200g) green beans,
+halved
+Serves 2 15 Minutes
+GF DF LC HP Q
+
+================ PAGE 67 ================
+
+================ PAGE 68 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+352kcal 14g 29g 20g
+@iamtimwalcott
+08793247
+myfitnesspal
+Cod & Vegetable Curry
+Heat olive oil in a wok or frying pan over high heat. Add
+chopped onion and cook for 3-4 minutes.
+Stir in curry paste and cook for 1 minute.
+Add coconut milk, bring to a boil, then reduce heat to
+medium-low.
+Add fish and frozen vegetables. Simmer for 15 minutes until
+cooked.
+Serve immediately.
+Serving suggestions: White rice, lime wedges
+1 medium yellow onion,
+chopped
+3 tbsp. green curry paste
+1 x 14 oz (400ml) can
+coconut milk
+1.3 lbs. (600g) white fish
+fillets (such as cod),
+coarsely chopped
+12.6 oz. (360g) frozen
+vegetable mix
+Serves 4 25 Minutes
+GF DF LC MP HP Q
+
+================ PAGE 69 ================
+
+================ PAGE 70 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+327kcal 10g 20g 23g
+@iamtimwalcott
+01378223
+myfitnesspal
+Easy Pork Meatballs
+in Tomato Sauce
+Place pork in a bowl, season with salt and pepper, add garlic,
+and mix. Shape into 1-tablespoon meatballs.
+Heat 1 tbsp olive oil in a pan over medium heat. Cook
+meatballs, turning occasionally, for 10 minutes until browned
+and cooked through. Set aside.
+In the same pan, add 1 tbsp oil and cook the onion for 3-4
+minutes until soft. Return the meatballs to the pan, add the
+passata and season. Boil, then simmer for 10 minutes.
+Serve meatballs with parsley.
+14 oz. (400g) lean pork,
+minced
+1 clove garlic, minced
+1 yellow onion, chopped
+16 fl. oz. (480ml) passata
+4 tbsp. parsley leaves,
+chopped
+Serves 4 35 Minutes
+GF DF LC MP HP
+
+================ PAGE 71 ================
+
+================ PAGE 72 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+192kcal 16g 5g 12g
+@iamtimwalcott
+09133333
+myfitnesspal
+Smoked Sweet Potato Hummus
+Blend all the ingredients in a blender until smooth. 
+Serve as dip.
+8.8 oz. (250g) chickpeas,
+drained
+8.9 oz. (255g) sweet potato,
+mashed
+4 tbsp. tahini
+½ tsp. smoked paprika
+1 garlic clove, minced
+Serves 8 10 Minutes
+GF DF LC MP V Q
+
+================ PAGE 73 ================
+
+================ PAGE 74 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+118kcal 11g 5g 6g
+@iamtimwalcott
+07806614
+myfitnesspal
+Oatmeal Tahini Protein Balls
+Mix all ingredients in a bowl. 
+Shape into balls.
+Store in the fridge for up to 2 weeks or freeze for up to 3
+months.
+6.3 oz. (180g) rolled oats
+1 cup tahini
+4 tbsp. honey
+2 oz. (60g) vanilla protein
+powder
+2 tbsp. mini chocolate chips
+Serves 24 30 Minutes
+LC MP V Q
+
+================ PAGE 75 ================
+
+================ PAGE 76 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+63kcal 7g 2g 3g
+@iamtimwalcott
+03963138
+myfitnesspal
+Almond & Cranberry Balls
+Blend dates in a food processor until smooth. Add oats,
+cranberries, almonds, and almond butter, and pulse until
+mixed.
+Roll the mixture into balls using slightly wet hands. Chill the
+balls in the fridge for 1 hour to set.
+Store in an airtight container in the refrigerator for up to 2
+weeks.
+10 medjool dates, pitted
+3.1 oz. (90g) rolled oats
+4 tbsp. dried cranberries
+4 tbsp. almonds
+4 tbsp. almond butter
+Makes 20 1 Hour 15 Minutes
+DF LC MP V Q N
+
+================ PAGE 77 ================
+
+================ PAGE 78 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+127kcal 13g 3g 7g
+@iamtimwalcott
+08681065
+myfitnesspal
+Peanut & Cranberry Cookies
+Preheat the oven to 360°F (180°C) and line two trays with
+parchment paper.
+Mix peanut butter and coconut sugar in a bowl. Add the egg
+and baking powder, then beat until smooth. Stir in the dried
+cranberries.
+Roll dough into balls, place on trays and flatten slightly. Bake
+for 10-12 minutes, swapping trays halfway through, until
+golden. Cool and store in an airtight container.
+9.8 oz. (280g) crunchy
+peanut butter
+6.3 oz. (180g) coconut
+sugar
+1 egg
+1 tsp. baking powder
+4 tbsp. dried cranberries
+Serves 20 22 Minutes
+DF LC MP V Q N
+
+================ PAGE 79 ================
+
+================ PAGE 80 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+190kcal 22g 3g 10g
+@iamtimwalcott
+09718371
+myfitnesspal
+Delicious Sweet Potato & Black
+Bean Brownies
+Peel, chop, and boil the sweet potatoes until soft, then set
+them aside to cool. 
+Preheat the oven to 360°F (180°C) and line an 11x7-inch
+(28x18 cm) baking tin with baking paper. 
+Blend the cooled sweet potatoes, black beans, walnuts,
+sugar, and chocolate in a food processor until smooth. Add 3
+tbsp olive oil and blend again. 
+Transfer the batter to the baking tin and bake for 50 minutes. 
+Let it cool completely on a wire rack before cutting it into 12
+squares. Store in an airtight container.
+9 oz. (250g) sweet potato
+1 x 14 oz. (400g) can black
+beans, drained
+2 oz. (60g) walnuts
+3.5 oz. (100g) coconut
+sugar
+3.5 oz. (100g) dark
+chocolate, chopped
+Serves 12 1 Hour 5 Minutes
+GF DF MP V N
+
+================ PAGE 81 ================
+
+================ PAGE 82 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+242kcal 36g 2g 10g
+@iamtimwalcott
+05769674
+myfitnesspal
+Apple Bites
+Preheat the oven to 360°F (180°C) and line an 8-inch (20cm)
+tin with parchment paper.
+Mix flour, baking powder, and coconut sugar in a bowl. Add
+the egg and ½ cup melted coconut oil; stir to combine.
+Fold in apple chunks.
+Pour batter into the tin and bake for 35-40 minutes. Cool
+before removing.
+Store in an airtight container.
+8.8 oz. (250g) all-purpose
+flour
+3 tsp. baking powder
+6.3 oz. (180g) coconut
+sugar
+1 egg
+2 apples, peeled, cored, &
+cut into chunks
+Serves 12 50 Minutes
+DF MP V
+
+================ PAGE 83 ================
+
+================ PAGE 84 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+166kcal 34g 3g 2g
+@iamtimwalcott
+07785276
+myfitnesspal
+Easy Pumpkin Spiced Cake
+Preheat the oven to 375°F (190°C).
+Beat eggs and coconut sugar in a bowl until fluffy and tripled
+in size, about 5 minutes. 
+Mix in pumpkin puree and cinnamon. 
+Fold in sifted self-rising flour gently.
+Grease an 8-inch (20 cm) cake pan and pour in batter. 
+Bake for 50 minutes or until a toothpick comes out clean.
+Cool, slice, and serve. Store in an airtight container. 
+3 eggs
+5.2 oz. (150g) coconut
+sugar
+8.1 oz. (230g) pumpkin
+puree
+2 tsp. cinnamon
+4.4 oz. (125g) self-rising
+flour
+Serves 8 1 Hour
+DF MP V
+
+================ PAGE 85 ================
+
+================ PAGE 86 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+248kcal 31g 4g 12g
+@iamtimwalcott
+00597913
+myfitnesspal
+Citrusy Coconut Chia Pudding
+Mix chia seeds, coconut milk, and 2 tablespoons of maple
+syrup in a bowl. Cover and chill for 6 hours or until thick.
+In another bowl, combine clementines, kiwis, and remaining
+maple syrup. Chill until the pudding is ready.
+Serve the pudding in 4 bowls, topped with fruit. If storing,
+keep in the fridge for up to 5 days and add fruit before
+serving.
+2.4 oz. (70g) white chia
+seeds
+14 fl. oz. (400ml) can light
+coconut milk
+4 tbsp. maple syrup, divided
+2 clementines, peeled,
+segmented, & chopped
+2 kiwis, peeled & chopped
+Serves 4 6 Hours
+GF DF MP V Q
+
+================ PAGE 87 ================
+
+================ PAGE 88 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+252kcal 26g 28g 4g
+@iamtimwalcott
+09204294
+myfitnesspal
+Blueberry Cottage Cheese Ice
+Cream
+Blend cottage cheese, banana, and whey powder in a
+blender until smooth. Stir in dried blueberries. 
+Freeze for 45 minutes, then stir and freeze for another 45
+minutes. 
+Stir again and serve with fresh blueberries.
+1 cup (145g) cottage
+cheese
+1 banana
+½ cup vanilla whey powder
+4 tbsp. dried blueberries
+¼ cup (75g) fresh
+blueberries
+Serves 2 1 Hour
+GF MP HP V
+
+================ PAGE 89 ================
+
+================ PAGE 90 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+100kcal 24g 1g 0g
+@iamtimwalcott
+07089337
+myfitnesspal
+Tropical Spiced Carrot Smoothie
+Blend all the ingredients in a blender until smooth. Serve.8 fl. oz. (240ml) carrot juice
+1 mango, peeled & chopped
+5.8 oz. (165g) pineapple,
+chopped
+1 tsp. grated ginger
+4 tbsp. coconut water
+Serves 4 10 Minutes
+GF DF MP V Q
+
+============================================================
+PACK: HEALTHY COMFORT FOOD RECIPE PACK
+SOURCE FILE: Healthy_Comfort_Food_Claude_Optimized.txt
+============================================================
+
+COPY OF HEALTHY COMFORT FOOD
+Claude Code / Artifact Optimized Plain Text Export
+
+Formatting Rules:
+- Clean UTF-8 text
+- Consistent recipe structure
+- Minimal visual clutter
+- Preserved nutrition + ingredients + instructions
+- Optimized for parsing, indexing, RAG, and AI ingestion
+
+==================================================
+
+================ PAGE 1 ================
+
+HEALTHY
+COMFORT
+FOOD
+12 comfort food recipes
+to fit your macros
+
+================ PAGE 2 ================
+
+The table of
+CONTENTS
+White chocolate chips add a touch of indulgence, making
+these squares a delicious way to fuel up.
+ATHLETE'S RICE KRISPIE SQUARES 3
+Made with sausage, low-fat mince, vegetables, and a medley
+of herbs, it delivers layers of deep flavor. 
+HEARTY ITALIAN RAGU 5
+This delicious smash burger offers the perfect balance of
+juicy, lean beef, fresh veggies, and a mouthwatering sauce.
+LEAN DOUBLE SMASH BURGERS 7
+The ultimate comfort food, blending the rich flavors of lean
+beef and lentils with a medley of vegetables. 
+LEAN LAYERED LASAGNA 9
+Ideal for breakfast, a pre-workout snack, or a satisfying
+afternoon treat.
+PECAN BANANA MUFFINS 11
+With minimal ingredients, they’re easy to make and are a
+nutritious option to fuel your day. 
+POWER BAGELS 13
+This smoothie is a powerhouse of vitamins, minerals, and
+antioxidants.
+RUBY REFRESHER SMOOTHIE 15
+Using low-fat sausages and a tortilla wrap instead of
+traditional pastry, they’re a guilt-free alternative.
+SAUSAGE ROLL BITES 17
+Start your day with a powerhouse breakfast that scrambles
+up the traditional pancake routine! 
+SCRAMBLED OATS 19
+ High in protein and rich in Omega-3s, it’s an excellent dish for
+post-workout recovery or a light, nourishing meal.
+SESAME PRAWN TOAST WITH ZESTY SLAW 21
+A delicious blend that combines the creamy texture of Greek
+yogurt with the natural sweetness of strawberries.
+STRAWBERRY OAT BREAKFAST SMOOTHIE 23
+TIKKA SKEWERS WITH SPICED RICE 25
+Packed with flavor and protein, this dish is an ideal post-
+workout meal or a light weeknight dinner.
+
+================ PAGE 3 ================
+
+Cook: 12 min
+Med Carb
+Athlete's Rice Krispie Squares
+ Prep: 10 min Fresh: 1 days Beginner
+Perfectly crafted for energy and recovery, each square combines the muscle-building
+power of vanilla whey protein with the quick energy release from marshmallows and
+Rice Krispies. White chocolate chips add a touch of indulgence, making these squares
+a delicious way to fuel up before or replenish after intense activities.
+Marshmallow 250g 8.8oz
+Makes 12 
+Rice Krispies 150g or 5.3oz
+Whey Protein 90g or 3.2oz, vanilla
+Semi Skim Milk 60ml or 2fl oz
+KCAL
+168.2
+PRO
+8.8g
+CARB
+29.2g
+FAT
+1.8g
+Per serving
+FIBER
+0.3g
+White Chocolate Chips 20g or 0.7oz
+Butter 1 tbsp
+Vanilla Extract 1 tsp
+
+================ PAGE 4 ================
+
+Med Carb
+Athlete's Rice Krispie Squares
+In a large saucepan over low heat, combine the butter, milk, vanilla extract, and
+white chocolate chips. Stir continuously until the chocolate chips are fully melted.
+Method
+Allergen Information 
+Contains lactose, gluten
+MFP Barcode
+Add the marshmallows to the pan. Continue to stir until the marshmallows are
+completely melted into a smooth mixture.
+Remove the pan from heat and immediately stir in the vanilla whey protein
+powder until well combined.
+Add the Rice Krispies cereal to the marshmallow mixture. Stir vigorously until the
+cereal is evenly coated.
+Pour the mixture into a lined baking pan. Spread evenly and press down gently to
+compact the mixture.
+Allow the mixture to cool at room temperature. Once set, cut into squares.
+
+================ PAGE 5 ================
+
+Cook: 3 hours
+High Protein
+Hearty Italian Ragu
+ Prep: 20 min Fresh: 3 days Intermediate
+This slow-cooked Ragu is a rich and hearty meal perfect for any occasion. Made with
+sausage, low-fat mince, vegetables, and a medley of herbs, it delivers layers of deep
+flavor. High in protein, fiber, and healthy fats, this meal also works as an ideal post-
+workout recovery dish or as a comforting family dinner. 
+Water 1 litre
+Makes 6
+Chicken Stock 1 cube
+Plum Tomatoes 2 tins
+Beef Mince 500g or 17.6oz, low-fat
+KCAL
+552.8
+PRO
+41.7g
+CARB
+67.5g
+FAT
+13.2g
+Per serving
+FIBER
+5.3g
+Sausage 500g or 17.6oz, lower-fat
+Pasta 60g or 2.1oz per portion 
+Med Carb
+Onion 2, medium 
+Semi-Skim Milk 200ml or 6.7fl oz
+Carrot 3, medium
+Fennel 1 bulb
+White Wine 1 glass
+Tomato Puree 2 tbsp
+Garlic Cloves 3 
+Olive Oil 1 tbsp
+Fennel Seeds 1 tbsp
+Fresh Thyme 1 sprig
+
+================ PAGE 6 ================
+
+High Protein
+Hearty Italian Ragu
+Remove sausage skins and add the sausage meat and mince to a large, heavy-
+bottomed pan over medium-high heat. Break the meat up with a spatula, cooking
+until browned and most of the fat has rendered, about 10-15 minutes. Remove
+from the pan and set aside.
+Method
+Allergen Information 
+Contains lactose, wheat,
+sulphites.
+MFP Barcode
+In the same pan, add olive oil and sauté the onions (diced), fennel (diced), and
+carrots (diced) over medium-high heat for 12-15 minutes until softened and
+caramelized.
+Add garlic, fennel seeds, and thyme sprig to the vegetables and cook for another
+2-3 minutes until fragrant.
+Med Carb
+Pour in the white wine, stirring to lift any browned bits from the bottom of the pan.
+Let the wine evaporate almost completely, about 2-3 minutes.
+Return the browned meat to the pan, along with tomato paste, tinned tomatoes,
+chicken stock, and milk. Stir well to combine. Bring to a low simmer.
+Cover the pan with a lid and let the ragu cook on low for 3-4 hours, stirring
+occasionally. If the sauce reduces too much, top up with some extra chicken stock.
+The longer it simmers, the richer the flavor will become.
+Cook your pasta according to package instructions. When ready to serve, mix the
+sauce into the cooked pasta, and sprinkle with freshly grated Parmesan.
+
+================ PAGE 7 ================
+
+Cook: 12 min
+High Protein
+Lean Double Smash Burgers
+ Prep: 10 min Fresh: 1 days Beginner
+This delicious smash burger recipe offers the perfect balance of juicy, lean beef, fresh
+veggies, and a mouthwatering burger sauce. Made with low-fat cheddar and served
+on soft brioche buns, these burgers are a healthier take on the classic, perfect for a
+guilt-free indulgence without sacrificing taste. 
+Beef Mince 320g or 11.3oz, lean
+Makes 2
+Salad Tomato 1, medium
+Brioche Burger Bun 2 
+Cheddar Cheese 4 slices, half-fat
+KCAL
+550.1
+PRO
+54.9g
+CARB
+41.5g
+FAT
+18g
+Per serving
+FIBER
+4.2g
+White Onion 1, medium
+Light Mayonnaise 1 tbsp
+Med Carb
+Ketchup 1 tbsp
+Mustard 1 tsp
+Lettuce 2 leafs
+Paprika 1 tsp
+Black Pepper 2 twist
+Salt 1 pinch
+
+================ PAGE 8 ================
+
+High Protein
+Lean Double Smash Burgers
+In a small bowl, mix together the light mayonnaise, ketchup, mustard, paprika, a
+pinch of salt, and black pepper. Stir well and set aside for later.
+Method
+Allergen Information 
+Contains lactose, eggs,
+mustard
+MFP Barcode
+Divide the lean beef mince into 4 even portions. Roll each portion into a loose ball,
+season with salt and pepper, and set aside.
+Heat a non-stick pan or skillet over medium-high heat. Once hot, place the beef
+balls onto the pan. Using a spatula, smash each beef ball down until thin and cook
+for 2-3 minutes on one side until crispy. Flip, add a slice of low-fat cheddar cheese
+to each patty, and cook for another 1-2 minutes until the cheese melts.
+Med Carb
+While the burgers are cooking, slice the white onion, tomato, and wash the lettuce.
+Toast the brioche buns in the same pan or on a griddle until lightly crispy.
+Spread the burger sauce generously on both sides of the toasted brioche buns.
+Add a lettuce leaf, a slice of tomato, and some raw onions on the bottom half of
+each bun. Place the cheesy smash patty on top and finish with the top bun.
+
+================ PAGE 9 ================
+
+Cook: 60 min
+High Protein
+Lean Layered Lasagna
+ Prep: 10 min Fresh: 3 days Beginner
+The ultimate comfort food, blending the rich flavors of lean beef and lentils with a
+medley of vegetables. High in protein and packed with fiber, this dish supports muscle
+recovery and energy needs. With a lighter béchamel sauce, this lasagna is ideal for
+those looking for a delicious yet nutrient-dense meal.
+Semi-Skim Milk 800ml or 27fl oz
+Makes 6
+Beef Mince 500g or 17.6oz, lean
+Passata 1 tin
+Cooked Lentils 1 tin
+KCAL
+504
+PRO
+39.4g
+CARB
+48.7g
+FAT
+17.1g
+Per serving
+FIBER
+3.1g
+Lasagna Sheets 200g or 7oz
+Red Pepper 1, large 
+Med Carb
+Mushrooms 150g or 5.3oz
+Courgette 1 medium
+Cheddar Cheese 80g or 2.8oz, half fat
+Carrot 1 large 
+Red Onion 1 small
+Parmesan Cheese 50g or 1.7oz
+Celery 1 stick
+Olive Oil 2 tbsp
+Plain Flour 2 tbsp
+Balsamic Vinegar 2 tbsp
+Garlic 2 cloves
+Stock Cubes 1 beef, 1 veg
+Fresh Rosemary 1 tsp
+
+================ PAGE 10 ================
+
+High Protein
+Lean Layered Lasagna
+Finely dice all the vegetables and set aside. Heat your oven to 200°C/392°F fan.
+Method
+Allergen Information 
+Contains eggs, gluten,
+sulphites.
+MFP Barcode
+Heat olive oil in a large pan over medium heat. Sauté the diced vegetables with a
+pinch of salt for 10 minutes until softened and slightly caramelised. Add the
+minced beef, breaking it up with a spoon. Cook on high heat for 10 minutes, adding
+the tomato puree, balsamic vinegar, and rosemary. Cook until the beef is
+browned. Pour in the passata and fill the passata tin with water, adding that to the
+pan. Stir in the stock, lentils, and seasoning. Simmer for 15-20 minutes, reducing
+the mixture until thickened.
+Med Carb
+In a separate pan, heat olive oil over medium heat. Stir in the flour and cook for 3
+minutes, continuously stirring to avoid lumps. Gradually whisk in the milk, 200ml at
+a time, allowing the sauce to thicken before adding more. Stir in the cheddar
+cheese, stock cube, salt, and pepper. Let the sauce simmer for 5 minutes until it
+thickens slightly.
+In a large baking dish, spread a layer of the ragu sauce, followed by spoonfuls of
+béchamel and a fine grating of Parmesan. Add a layer of lasagna sheets. Repeat
+this process for two more layers. Finish with a generous layer of béchamel sauce
+on top, a crack of black pepper, and the remaining Parmesan.
+Cover the dish with foil and bake for 20 minutes. Uncover and bake for another 15
+minutes until the top is golden and bubbling. Let the lasagna rest for 10 minutes
+before serving.
+
+================ PAGE 11 ================
+
+Cook: 18 min
+Low Carb
+Pecan Banana Muffins
+ Prep: 10 min Fresh: 3 days Beginner
+These Pecan Banana Muffins are a healthier twist on the classic muffin, featuring the
+natural sweetness of bananas and honey with a light crunch from pecans. Ideal for
+breakfast, a pre-workout snack, or a satisfying afternoon treat, these muffins pack a
+blend of complex carbohydrates, healthy fats, and protein to fuel your day!
+Banana 2, medium 
+Makes 12
+Self-Raising Flour 200g or 7oz
+Eggs 2
+Greek Yoghurt 100g or 3.5oz, 0% fat
+KCAL
+152.5
+PRO
+4.6g
+CARB
+20.4g
+FAT
+5.8g
+Per serving
+FIBER
+0.7g
+Honey 75g or 2.6oz
+Semi-Skim Milk 4 tbsp
+Pecan Nuts 50g or 1.7oz
+Olive Oil 20g or 0.7oz
+Vanilla Extract 1 tsp
+
+================ PAGE 12 ================
+
+Low Carb
+Pecan Banana Muffins
+Preheat your oven to 200°C (180°C fan) or Gas Mark 6.
+Method
+Allergen Information 
+Contains lactose, eggs,
+treenuts.
+MFP Barcode
+In a large mixing bowl, combine the self-raising flour and baking powder. In a
+separate bowl, mash the ripe bananas. Add honey, olive oil, eggs, vanilla extract,
+milk, and Greek yogurt to the mashed bananas. Mix until well combined.
+Gradually pour the banana mixture into the bowl of dry ingredients. Stir gently until
+just combined, being careful not to overmix.
+Gently fold in the chopped pecans to the muffin batter Evenly distribute the batter
+between the 12 muffin cases.
+Bake in the preheated oven for approximately 18-20 minutes, or until the muffins
+have risen and are golden on top. A toothpick inserted in the center should come
+out clean.
+
+================ PAGE 13 ================
+
+Cook: 25 min
+Med Carb
+Power Bagels
+ Prep: 10 min Fresh: 3 days Beginner
+A protein-packed twist on your classic bagel recipe. Blending cottage cheese into the
+dough adds a smooth texture and boosts the protein content, making them perfect
+for a healthy and satisfying breakfast or snack. With minimal ingredients, they’re easy
+to make and are a nutritious option to fuel your day. 
+Cottage Cheese 250g or 9oz, fat free
+Makes 4
+Plain Flour 120g or 4.2oz
+Egg 1 
+Sesame Seeds 1 tsp
+KCAL
+166.7
+PRO
+11.6g
+CARB
+24.3g
+FAT
+2.5g
+Per serving
+FIBER
+0.9g
+Baking Powder 1 tsp
+Salt 1 pinch
+
+================ PAGE 14 ================
+
+Med Carb
+Power Bagels
+Set your oven to 180°C (350°F) to preheat while you prepare the dough.
+Method
+Allergen Information 
+Contains egg, lactose,
+may contain gluten
+MFP Barcode
+In a large bowl, combine the self-raising flour, baking powder, salt, and blended
+cottage cheese. Stir until a dough begins to form. If the dough feels too dry,
+gradually add warm water, a little at a time, until the dough comes together.
+Transfer the dough to a floured surface and knead it for a few minutes until
+smooth and elastic.
+Roll the dough into a ball and cut it into 4 equal parts. Take each quarter and roll it
+into a ball. Use your fingers to make a hole in the center of each ball, gently pulling
+the dough apart to create a bagel shape.
+Place the bagels on a prepared baking tray lined with parchment paper. Brush the
+top of each bagel with the beaten egg and sprinkle sesame seeds (or your
+favorite toppings) over the top.
+Bake the bagels in the preheated oven for 25 minutes, or until they are golden
+brown and firm on the outside.
+
+================ PAGE 15 ================
+
+Cook: 16 min
+Med Carb
+Ruby Refresher Smoothie
+ Prep: 5 min Fresh: 3 days Beginner
+This smoothie blends vibrant beetroot with tangy kiwi, crisp apple, and sweet
+strawberries to create a nutrient-packed drink that energizes and revitalizes. This
+smoothie is a powerhouse of vitamins, minerals, and antioxidants, making it an
+excellent choice for a refreshing boost at any time of the day.
+Water 150ml or 5 fl oz
+Makes 1
+Apple 1, medium
+Frozen Strawberries 70g or 2.5 oz
+Kiwi 1 whole
+KCAL
+121.3
+PRO
+2.6g
+CARB
+25.6g
+FAT
+0.9g
+Per serving
+FIBER
+4g
+Beetroot 1, cooked
+
+================ PAGE 16 ================
+
+Low Carb
+Ruby Refresher Smoothie
+Ensure the beetroot is cooked and both the apple and kiwi are thoroughly washed.
+Slice all fruits into smaller pieces to facilitate easier blending. In a blender,
+combine the beetroot, kiwi, apple, frozen strawberries, and water. Blend until
+smooth.
+Method
+Allergen Information 
+Contains soy, sesame.
+MFP Barcode
+
+================ PAGE 17 ================
+
+Cook: 12 min
+Low Carb
+Sausage Roll Bites
+ Prep: 10 min Fresh: 1 days Beginner
+A healthier take on the classic Irish deli favorite, these Sausage Roll Bites deliver the
+same savory, herb-infused flavor but with a lighter twist. Using low-fat sausages and
+a tortilla wrap instead of traditional puff pastry, they’re perfect for anyone looking for a
+guilt-free alternative that still packs in protein and taste. 
+Reduced Fat Pork Sausages 250g or 8.8oz
+Makes 2
+Egg 1 
+Tortilla 1, large
+Sesame Seeds 1/2 tsp
+KCAL
+293.6
+PRO
+23.9g
+CARB
+23g
+FAT
+11.7g
+Per serving
+FIBER
+3.8g
+Fresh Thyme 1 tsp
+Fresh Rosemary 1 tsp
+Fresh Sage 1 tsp
+
+================ PAGE 18 ================
+
+Med Carb
+Sausage Roll Bites
+Start by removing the skins from the sausages. If you prefer, you can also mash
+the sausages directly in a bowl using a fork. Stir in the dried sage, thyme, and
+chopped rosemary. Season with salt and mix everything together until well
+combined.
+Method
+Allergen Information 
+Contains egg, sesame,
+gluten.
+MFP Barcode
+Spread the sausage mixture evenly across a large tortilla wrap, leaving a small
+gap along one edge. This gap will help seal the roll later with the beaten egg. Roll
+the tortilla up tightly to encase the sausage filling.
+Once rolled, slice the wrap into 8-10 pieces, depending on how thick you’d like
+each sausage roll bite to be.
+Brush each of the sausage roll bites with the beaten egg to give them a beautiful
+golden color when cooked. Sprinkle a few sesame seeds on top of each bite for
+added texture.
+Preheat your air fryer to 200°C (392°F). Arrange the sausage roll bites in the air
+fryer basket, making sure they’re spaced slightly apart. Cook for approximately 12
+minutes, or until the wraps are crispy and the sausage filling is thoroughly cooked.
+
+================ PAGE 19 ================
+
+Cook: 5 min
+High Protein
+Scrambled Oats
+ Prep: 5 min Fresh: 1 days Beginner
+Start your day with a powerhouse breakfast that scrambles up the traditional
+pancake routine! Our Scrambled Oats blend the heartiness of oats with the nutritional
+punch of bananas and protein powder, then finished off like scrambled eggs. This
+meal is packed with energy, protein, and fiber.
+Banana 1, medium
+Makes 1
+Egg 1
+Porridge Oats 50g or 1.7oz
+Blueberries 1 handful
+KCAL
+540.1
+PRO
+41.8g
+CARB
+62.8g
+FAT
+13.4g
+Per serving
+FIBER
+6.7g
+Raspberries 1 handful
+Whey Protein 1 scoop
+High Carb
+Greek Yoghurt 2 tbsp, 0% fat
+Dark Chocolate 1 square, 70%
+
+================ PAGE 20 ================
+
+High Protein
+Scrambled Oats
+In a blender, combine the oats, banana, egg, and protein powder. Blend until the
+mixture is smooth.
+Method
+Allergen Information 
+Contains eggs, lactose,
+treenuts.
+MFP Barcode
+Heat a non-stick skillet over medium heat. Pour in the oat mixture, allowing it to set
+slightly like a pancake. Then, begin scrambling, stirring constantly, until the mixture
+is fully cooked and resembles scrambled eggs.
+High Carb
+While the oats are cooking, prepare your toppings—wash the berries, measure the
+yogurt, and grate the dark chocolate.
+Spoon the scrambled oats onto a plate. Top with blueberries, raspberries, yogurt,
+flaked almonds, and grated dark chocolate.
+
+================ PAGE 21 ================
+
+Cook: 12 min
+High Protein
+Sesame Prawn Toast with Zesty Slaw
+ Prep: 10 min Fresh: 1 days Beginner
+This recipe is a light, protein-packed take on the classic prawn toast. The combination
+of prawns with ginger,and a sesame crust provides bold flavors, while the refreshing
+slaw adds crunch and a tangy twist. High in protein and rich in Omega-3s, it’s an
+excellent dish for post-workout recovery or a light, nourishing meal.
+Tiger Prawns 280g or 10oz
+Makes 2
+Sourdough Bread 4 slices
+Cucumber 1 small 
+Cabbage 2 handfuls
+KCAL
+468
+PRO
+40.9g
+CARB
+57g
+FAT
+8.3g
+Per serving
+FIBER
+6.3g
+Carrot 1, large
+Lime Juice 1 lime
+Med Carb
+Lime Zest 1 lime
+Egg Whites 2 eggs
+Spring Onion 4 
+Sweet Chilli Sauce 2 tbsp
+Soy Sauce 2 tsp
+Fish Sauce 2 tsp
+Sesame Oil 2 tsp
+Coriander Leaves 1 tbsp, chopped
+Ginger 1 tsp
+Chilli Flakes 1/2 tsp
+
+================ PAGE 22 ================
+
+High Protein
+Sesame Prawn Toast with Zesty Slaw
+Mince the raw prawns roughly with a knife to create a chunky texture. Transfer to a
+mixing bowl and combine with the chili flakes, 2 spring onions, sesame oil, ginger,
+soy sauce, egg whites, and lime zest. Season with a pinch of salt and pepper and
+mix well. Set aside.
+Method
+Allergen Information 
+Contains eggs, soy,
+sesame
+MFP Barcode
+In a separate bowl, mix the shredded cabbage, cucumber, grated carrot, spring
+onions, and coriander. For the dressing, combine the sweet chili sauce, fish sauce,
+and lime juice. Pour over the vegetables and massage gently to coat evenly. Let
+the slaw marinate while you prepare the prawn toast.
+Med Carb
+Spread the prawn mixture evenly over each slice of bread, pressing down to help it
+adhere. Sprinkle with sesame seeds for extra texture and flavor.
+Preheat the air fryer to 200°C (392°F) and cook the prawn toast for 10 to 12 minutes.
+Plate the prawn toast and serve with the zesty slaw on the side, or spoon the slaw
+directly on top of the toast for extra crunch. Enjoy immediately!
+
+================ PAGE 23 ================
+
+Cook: 0 min
+High Protein
+Strawberry Oat Breakfast Smoothie
+ Prep: 5 min Fresh: 1 days Beginner
+A wholesome breakfast, a nutritious snack, or a post-exercise replenishment that's
+both satisfying and beneficial for muscle recovery and sustained energy levels. A
+delicious blend that combines the creamy texture of Greek yogurt with the natural
+sweetness of strawberries and the sustaining energy of oats
+Semi Skim Milk 200ml or 6.7fl oz
+Makes 1
+Greek Yoghurt 125g or 4.4oz, 0% fat
+Frozen Strawberries 70g or 2.5oz
+Porridge Oats 30g or 1oz
+KCAL
+326.9
+PRO
+23.8g
+CARB
+44.6g
+FAT
+6.1g
+Per serving
+FIBER
+3g
+Honey 1 tsp
+Med Carb
+
+================ PAGE 24 ================
+
+High Protein
+Strawberry Oat Breakfast Smoothie
+Place all of the ingredients in a blender and blend until smooth. 
+Method
+Allergen Information 
+Contains lactose.
+MFP Barcode
+Med Carb
+
+================ PAGE 25 ================
+
+Cook: 20 min
+High Protein
+Tikka Skewers with Spiced Rice
+ Prep: 10 min Fresh: 3 days Beginner
+Packed with flavor and protein, this dish is an ideal post-workout meal or a light
+weeknight dinner. Juicy chicken marinated in tikka masala paste is paired with spiced
+rice and a refreshing mint yogurt sauce, making it a balanced dish rich in protein,
+carbs, and healthy fats. A great option for those looking for a simple, nutritious meal!
+Chicken Breast 4 (125 or 4.4oz per breast)
+Makes 4
+Microwave Spiced Rice 2 bags
+Tomato 2, medium
+Red Onion 1, medium
+KCAL
+367.5
+PRO
+37.9g
+CARB
+38.3g
+FAT
+6.8g
+Per serving
+FIBER
+4g
+Tikka Paste 4 tbsp
+Greek Yoghurt 4 tbsp, 0% fat
+Med Carb
+Lemon Juice 1 lemon
+Fresh Mint 1 tbsp, chopped
+
+================ PAGE 26 ================
+
+High Protein
+Tikka Skewers with Spiced Rice
+Dice the chicken breasts and marinate them with the tikka masala paste in a bowl.
+Let it sit for at least 10 minutes (or longer if you have time).
+Method
+Allergen Information 
+Contains lactose.
+MFP Barcode
+Thinly slice the red onion and season it with salt and the juice of 1 lemon. Toss well
+and set aside.
+Preheat your air fryer to 200°C (390°F). Add the marinated chicken to the air fryer
+basket and cook for 12-15 minutes, turning halfway through for even cooking.
+While the chicken is cooking, prepare the microwave spiced rice according to the
+packet instructions.
+Med Carb
+In a small bowl, mix the Greek yogurt, chopped mint, and a pinch of salt. Set aside.
+When the chicken is nearly done, add the lemony onions on top of the chicken and
+cook for an additional 3 minutes to soften the onions and combine the flavors.
+In a bowl, add a portion of the cooked rice. Top it with the chicken and onions, a
+spoonful of the mint yogurt sauce, and the quartered tomatoes. Garnish with
+additional mint or a drizzle of lemon juice, if desired. Serve immediately.
+
+============================================================
+PACK: SMOOTHIE RECIPE PACK
+SOURCE FILE: Smoothie_Recipe_Pack_NEW_Claude_Optimized.txt
+============================================================
+
+COPY OF SMOOTHIE RECIPE PACK NEW
+Claude Code / Artifact Optimized Plain Text Export
+
+Formatting Rules:
+- Clean UTF-8 text
+- Consistent recipe structure
+- Minimal visual clutter
+- Preserved nutrition + ingredients + instructions
+- Optimized for parsing, indexing, RAG, and AI ingestion
+
+==================================================
+
+================ PAGE 1 ================
+
+30 HEALTHY TASTY SMOOTHIE RECIPES
+SmoothieRecipe Pack
+@iamtimwalcott
+
+================ PAGE 2 ================
+
+@iamtimwalcott
+30 Healthy Tasty Smoothie Recipes
+Smoothie Recipe Pack
+
+================ PAGE 3 ================
+
+================ PAGE 4 ================
+
+1. The Power-Up Breakfast Smoothie
+2. The Super Strawberry Breakfast
+Smoothie
+3. The ‘Coffee Lover’ Smoothie
+4. The Energizer Smoothie
+5. The Green Matcha Protein Packed
+Smoothie
+6. The Super Green Protein Smoothie
+7. The Classic Strawberry & Mango
+Protein Smoothie
+8. The Cherry Burst Protein Smoothie
+9. The Spiced Banana Protein Smoothie
+10. The Superfood Cocoa Smoothie
+11. The Post Workout Strawberry
+Smoothie
+12. The High Protein Golden Glow
+Smoothie
+13. The Berry Blast Protein Smoothie
+14. The Protein Cinnamon Roll Smoothie
+15. The Anti-Inflammatory Turmeric &
+Spinach Smoothie
+@iamtimwalcott
+Contents
+16. The Green Glow Smoothie
+17. The Golden Mango Smoothie
+18. The Pineapple & Ginger Lassi
+19. The Green Mean Smoothie
+20. The Strawberry Summer Smoothie
+21. The Post-Workout Cocoa Smoothie
+22. The Kiwi Burst Smoothie
+23. The Purple Power Smoothie
+24. The Mocha Smoothie
+25. The Perfect Piña Colada Smoothie
+26. The Creamy Carrot Cake Smoothie
+27. The Classic Banana Smoothie
+28. The Best Apple Pie Smoothie
+29. The Sweet Potato Smoothie
+30. The Zen Smoothie
+
+================ PAGE 5 ================
+
+GF
+DF
+LC
+MP
+HP
+V
+Q
+N
+@iamtimwalcott
+Key
+Gluten Free
+Dairy Free
+Low Carb (<20g per serve)
+Meal Prep/Freezer Friendly
+High Protein (>20g per serve)
+Vegetarian
+Quick (under 30 mins)
+Contains Nuts
+
+================ PAGE 6 ================
+
+================ PAGE 7 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+446kcal 54g 26g 14g
+@iamtimwalcott
+05641581
+myfitnesspal
+The Power-Up Breakfast Smoothie
+Blend all the ingredients in a blender until smooth. Serve.5.2 oz. (150g) frozen
+blueberries
+1 medium ripe banana
+4 tbsp. rolled oats
+2 tbsp. almond butter
+16.2 fl. oz. (480ml)
+unsweetened almond milk
+2 medjool dates, pitted
+1.7 oz. (50g) vanilla protein
+powder
+Serves 2 5 Minutes
+DF HP V Q N
+
+================ PAGE 8 ================
+
+================ PAGE 9 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+323kcal 27g 29g 11g
+@iamtimwalcott
+08451246
+myfitnesspal
+The Super Strawberry
+Breakfast Smoothie
+Blend all the ingredients in a blender until smooth. Serve.1 medium banana, sliced
+and frozen
+5.2 oz. (150g) frozen
+strawberries
+2 tbsp. rolled oats
+1.7 oz. (50g) vanilla protein
+powder
+2 tbsp. natural peanut butter
+12.1 fl. oz. (360ml)
+unsweetened almond milk
+Serves 2 5 Minutes
+DF LC HP V Q N
+
+================ PAGE 10 ================
+
+================ PAGE 11 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+282kcal 25g 14g 14g
+@iamtimwalcott
+03029525
+myfitnesspal
+The ‘Coffee Lover’ Smoothie
+Blend all the ingredients in a blender until smooth. Serve.4 tbsp. rolled oats
+12.1 fl.oz. (360ml)
+unsweetened almond milk
+4 fl. oz. (120ml) water
+1 oz. (30g) chocolate
+protein powder
+2 tsp. instant coffee powder
+2 tsp. natural cocoa powder
+1 banana
+1 oz. (30g) pecans
+Serves 2 5 Minutes
+DF LC V Q N
+
+================ PAGE 12 ================
+
+================ PAGE 13 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+210kcal 28g 11g 6g
+@iamtimwalcott
+09583942
+myfitnesspal
+The Energizer Smoothie
+Blend all the ingredients in a blender until smooth. Serve.8 oz. (240ml) coconut milk
+(from carton)
+8 oz. (240ml) chilled coffee
+5.8 oz. (165g) coconut
+yogurt, unsweetened
+2 Medjool dates
+1 oz. (30g) chocolate
+protein powder
+1 tbsp. natural cacao
+powder
+Serves 2 5 Minutes
+GF DF LC V Q
+
+================ PAGE 14 ================
+
+================ PAGE 15 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+220kcal 23g 23g 4g
+@iamtimwalcott
+06285336
+myfitnesspal
+The Green Matcha Protein Packed
+Smoothie
+Blend all the ingredients in a blender until smooth. Serve.4 tbsp. rolled oats
+½ tsp. matcha green tea
+powder
+16.2 fl. oz. (480 ml)
+unsweetened almond milk
+1 banana, chopped &
+frozen
+1.7 oz. (50 g) vanilla protein
+powder
+Serves 2 5 Minutes
+DF LC HP V Q N
+
+================ PAGE 16 ================
+
+================ PAGE 17 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+286kcal 30g 19g 10g
+@iamtimwalcott
+02529967
+myfitnesspal
+The Super Green Protein Smoothie
+Blend all the ingredients in a blender until smooth. Serve.8 fl. oz. (240ml)
+unsweetened almond milk
+1 medium frozen banana
+½ frozen mango
+2 oz. (60g) spinach
+4 tbsp. pumpkin seeds
+2 tbsp. hemp seed hearts
+1 oz. (30g) vanilla protein
+powder
+4 tbsp. water
+Serves 2 5 Minutes
+GF DF V Q N
+
+================ PAGE 18 ================
+
+================ PAGE 19 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+313kcal 36g 31g 5g
+@iamtimwalcott
+03626900
+myfitnesspal
+The Classic Strawberry Mango
+Protein Smoothie
+Blend all the ingredients in a blender until smooth. Serve.5.2 oz. (150g) frozen
+strawberries
+1 frozen mango, chopped
+4.2 oz. (120g) Greek yogurt
+1.7 oz. (50g) vanilla protein
+powder
+16.2 fl. oz. (480ml) almond
+milk, unsweetened
+6 ice cubes
+Serves 2 5 Minutes
+GF HP V Q N
+
+================ PAGE 20 ================
+
+================ PAGE 21 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+350kcal 24g 23g 18g
+@iamtimwalcott
+04315797
+myfitnesspal
+The Cherry Burst Protein Smoothie
+Blend all the ingredients in a blender until smooth. Serve.12.1 fl. oz. (360ml)
+unsweetened almond milk
+1 avocado
+8 oz. (230g) frozen cherries
+1.7 oz. (50g) chocolate
+protein powder
+2 tsp. vanilla extract
+Serves 2 5 Minutes
+GF DF LC HP V Q N
+
+================ PAGE 22 ================
+
+================ PAGE 23 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+268kcal 35g 23g 4g
+@iamtimwalcott
+02630076
+myfitnesspal
+The Spiced Banana
+Protein Smoothie
+Blend all the ingredients in a blender until smooth. Serve.4 tbsp. rolled oats
+16.2 fl. oz. (480ml)
+unsweetened almond milk
+1 banana
+1 apple
+1 tsp. ground cardamom
+1.7 oz. (50g) vanilla protein
+powder
+Serves 2 5 Minutes
+DF HP V Q N
+
+================ PAGE 24 ================
+
+================ PAGE 25 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+354kcal 50g 25g 6g
+@iamtimwalcott
+01636369
+myfitnesspal
+The Superfood Cocoa Smoothie
+Blend all the ingredients in a blender until smooth. Serve.1 medium banana, sliced
+and frozen
+1 cup (150g) frozen
+blueberries
+1 cup (70g) kale
+2 medjool dates, pitted
+1 tbsp. ground flax seeds
+3 frozen cauliflower florets
+(40g)
+2 scoops (50g) chocolate
+protein powder
+1 ½ tbsp. natural cocoa
+powder
+2 cups (480ml)
+unsweetened almond milk
+Serves 2 5 Minutes
+GF DF HP V Q N
+
+================ PAGE 26 ================
+
+================ PAGE 27 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+192kcal 16g 23g 4g
+@iamtimwalcott
+07395206
+myfitnesspal
+The Post Workout 
+Strawberry Smoothie
+Blend all the ingredients in a blender until smooth. Serve.5.2 oz. (150g) frozen
+strawberries
+8 fl. oz. (240ml) cartoned
+coconut milk
+1.7 oz. (50g) vanilla protein
+powder
+2 tsp. honey
+2 tsp. vanilla extract
+2 tsp. desiccated coconut
+Serves 2 5 Minutes
+GF DF LC HP V Q
+
+================ PAGE 28 ================
+
+================ PAGE 29 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+340kcal 45g 32g 4g
+@iamtimwalcott
+04956754
+myfitnesspal
+The High Protein Golden Glow
+Smoothie
+Blend all the ingredients in a blender until smooth. Serve.1 mango, chopped & frozen
+1 banana, sliced & frozen
+4.2 oz. (120g) Greek yogurt
+1 tsp. ground cinnamon
+1 tsp. ground turmeric
+½ tsp. ground ginger
+pinch of black pepper
+8 fl. oz. (240ml)
+unsweetened almond milk
+1.7 oz. (50g) vanilla protein
+powder
+Serves 2 5 Minutes
+GF HP V Q N
+
+================ PAGE 30 ================
+
+================ PAGE 31 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+256kcal 29g 26g 4g
+@iamtimwalcott
+03149577
+myfitnesspal
+The Berry Blast Protein Smoothie
+Blend all the ingredients in a blender until smooth. Serve.7.7 oz. (220g) frozen mixed
+berries
+1 chopped frozen banana
+2 tsp. chia seeds
+1.7 oz. (50g) vanilla protein
+powder
+16.2 fl. oz. (480ml)
+unsweetened almond milk
+Serves 2 5 Minutes
+GF DF LC HP V Q N
+
+================ PAGE 32 ================
+
+================ PAGE 33 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+288kcal 35g 28g 4g
+@iamtimwalcott
+06895318
+myfitnesspal
+The Protein Cinnamon
+Roll Smoothie
+Blend all the ingredients in a blender until smooth. Serve.8 fl. oz. (240ml) almond
+milk, unsweetened
+4.2 oz. (120g) Greek yogurt
+1.7 oz. (50g) vanilla protein
+powder
+4 tbsp. rolled oats
+1 tbsp. honey
+1 tsp. ground cinnamon
+1 banana, chopped and
+frozen
+Serves 2 5 Minutes
+GF HP V Q N
+
+================ PAGE 34 ================
+
+================ PAGE 35 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+203kcal 30g 5g 7g
+@iamtimwalcott
+02029764
+myfitnesspal
+The Anti-Inflammatory Turmeric
+Smoothie
+Blend all the ingredients in a blender until smooth. Serve.16.2 fl. oz.(480ml)
+unsweetened almond milk
+2 oz. (60g) packed spinach
+½ tsp. ground turmeric
+pinch of black pepper
+2 tbsp. chia seeds
+11.6 oz. (330g) frozen
+pineapple chunks
+Serves 2 5 Minutes
+GF DF V Q N
+
+================ PAGE 36 ================
+
+================ PAGE 37 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+146kcal 29g 3g 2g
+@iamtimwalcott
+04262941
+myfitnesspal
+The Green Glow Smoothie
+Blend all the ingredients in a blender until smooth. Serve.2 medium bananas, frozen
+12.1 fl. oz. (360ml)
+unsweetened almond milk
+2 oz. (60g) baby spinach
+24 mint leaves
+10 ice cubes
+Serves 2 5 Minutes
+GF DF LC V Q N
+
+================ PAGE 38 ================
+
+================ PAGE 39 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+316kcal 53g 17g 4g
+@iamtimwalcott
+01991208
+myfitnesspal
+The Golden Mango Smoothie
+Blend all the ingredients in a blender until smooth. Serve.1 mango, peeled, chopped,
+& frozen
+10.5 oz. (300g) Greek
+yogurt
+1 tbsp. turmeric root,
+chopped
+4 clementines, peeled
+Serves 2 5 Minutes
+GF V Q
+
+================ PAGE 40 ================
+
+================ PAGE 41 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+305kcal 46g 10g 9g
+@iamtimwalcott
+02970709
+myfitnesspal
+The Pineapple & Ginger Lassi
+Blend all the ingredients in a blender until smooth. Serve.12. 6 oz. (360g) plant-based
+vanilla yogurt
+11.6 oz. (330g) canned
+pineapple with juice
+8 fl. oz. (120ml) canned
+light coconut milk
+½ tsp. grated ginger root
+10 ice cubes
+Serves 2 5 Minutes
+GF DF V Q
+
+================ PAGE 42 ================
+
+================ PAGE 43 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+255kcal 36g 3g 11g
+@iamtimwalcott
+03217641
+myfitnesspal
+The Green Mean Smoothie
+Blend all the ingredients in a blender until smooth. Serve.½ avocado, pitted
+11.6 oz. (330g) pineapple
+chunks
+2 oz. (60g) baby spinach
+8 fl. oz. (240ml) coconut
+milk (from carton)
+4 tbsp. lime juice
+4 tbsp. coriander, chopped
+2 tsp. ground ginger
+Serves 2 5 Minutes
+GF DF V Q
+
+================ PAGE 44 ================
+
+================ PAGE 45 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+170kcal 31g 7g 2g
+@iamtimwalcott
+09644670
+myfitnesspal
+The Strawberry Summer Smoothie
+Blend all the ingredients in a blender until smooth. Serve.4.2 oz. (120g) Greek yogurt
+4 tbsp. coconut milk
+4 tbsp. orange juice
+5.2 oz. (150g) frozen
+strawberries
+1 orange, peeled
+1 tbsp. honey
+Serves 2 5 Minutes
+GF V Q
+
+================ PAGE 46 ================
+
+================ PAGE 47 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+488kcal 45g 23g 24g
+@iamtimwalcott
+09737457
+myfitnesspal
+The Post-Workout Cocoa Smoothie
+Blend all the ingredients in a blender until smooth. Serve.5.4 fl. oz. (160ml)
+unsweetened almond milk
+4.2 oz. (120g) Greek yogurt
+1 tbsp. ground flaxseed
+1 tbsp. natural cocoa
+powder, unsweetened
+2 tbsp. peanut butter
+½ tsp. vanilla extract
+1 medium banana, chopped
+and frozen
+Serves 2 5 Minutes
+GF HP V Q N
+
+================ PAGE 48 ================
+
+================ PAGE 49 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+157kcal 24g 4g 5g
+@iamtimwalcott
+09215104
+myfitnesspal
+The Kiwi Burst Smoothie
+Blend all the ingredients in a blender until smooth. Serve.5.6 oz. (160g) coconut
+yogurt
+8 fl. oz. (120ml) coconut
+milk (from a carton)
+¼ tsp. grated ginger root
+2 kiwis, peeled and
+quartered
+2 tbsp. quinoa flakes
+2 oz. (60g) baby spinach
+Serves 2 5 Minutes
+GF DF LC V Q
+
+================ PAGE 50 ================
+
+================ PAGE 51 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+231kcal 44g 7g 3g
+@iamtimwalcott
+05256834
+myfitnesspal
+The Purple Power Smoothie
+Blend all the ingredients in a blender until smooth. Serve.12.1 fl. oz. (360ml) water
+10 oz. (285g) red cabbage,
+shredded and frozen
+5.2 oz. (150g) blueberries,
+frozen
+1 banana, chopped and
+frozen
+5.8 oz. (165g) vanilla yogurt
+Serves 2 5 Minutes
+GF V Q
+
+================ PAGE 52 ================
+
+================ PAGE 53 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+150kcal 26g 7g 2g
+@iamtimwalcott
+02381013
+myfitnesspal
+The Mocha Smoothie
+Blend all the ingredients in a blender until smooth. Serve.10.6 fl. oz. (315ml) cold
+brew coffee
+4.2 oz. (120g) Greek yogurt
+2 medjool dates, pitted
+1 ½ tbsp. natural cocoa
+powder
+½ tsp. vanilla extract
+Serves 2 5 Minutes
+GF LC V Q
+
+================ PAGE 54 ================
+
+================ PAGE 55 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+295kcal 25g 6g 19g
+@iamtimwalcott
+01360271
+myfitnesspal
+The Perfect Piña Colada Smoothie
+Blend all the ingredients in a blender until smooth. Serve.4 tbsp. oats
+16.2 fl. oz. (480ml) almond
+milk, unsweetened
+7 oz. (200g) pineapple
+chunks
+4 tbsp. desiccated coconut
+1 oz. (30g) walnuts
+Serves 2 5 Minutes
+DF LC V Q N
+
+================ PAGE 56 ================
+
+================ PAGE 57 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+255kcal 33g 6g 11g
+@iamtimwalcott
+03778928
+myfitnesspal
+The Creamy Carrot Cake Smoothie
+Blend all the ingredients in a blender until smooth. Serve.1 banana, chopped &
+frozen
+1 carrot, peeled & grated
+2 tbsp. rolled oats
+2 tbsp. almond butter
+¼ tsp. ground cinnamon
+⅛ tsp. ground ginger
+1 tbsp. honey
+8 fl. oz. (240ml) almond
+milk, unsweetened
+Serves 2 5 Minutes
+DF V Q N
+
+================ PAGE 58 ================
+
+================ PAGE 59 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+196kcal 32g 8g 4g
+@iamtimwalcott
+01943423
+myfitnesspal
+The Classic Banana Smoothie
+Blend all the ingredients in a blender until smooth. Serve.2 medium bananas, sliced
+& frozen
+4.2 oz. (120g) Greek yogurt
+1 tbsp. ground flax seeds
+8 fl. oz. (240ml)
+unsweetened almond milk
+1 tsp. vanilla extract
+Serves 2 5 Minutes
+GF HP V Q N
+
+================ PAGE 60 ================
+
+================ PAGE 61 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+295kcal 48g 10g 7g
+@iamtimwalcott
+04685708
+myfitnesspal
+The Best Apple Pie Smoothie
+Blend all the ingredients in a blender until smooth. Serve.4 fl. oz. (120ml) almond
+milk, unsweetened
+4.2 oz. (120g) Greek yogurt
+4 tbsp. rolled oats
+1 apple, peeled, cored, &
+chopped
+1 medium banana, sliced &
+frozen
+1 tbsp. honey
+1 tbsp. almond butter
+1 tsp. vanilla extract
+1 ½ tsp. ground cinnamon
+Serves 2 5 Minutes
+V Q N
+
+================ PAGE 62 ================
+
+================ PAGE 63 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+360kcal 50g 13g 12g
+@iamtimwalcott
+03287491
+myfitnesspal
+The Sweet Potato Smoothie
+Blend all the ingredients in a blender until smooth. Serve.9.5 oz. (270g) sweet
+potatoes, peeled & chopped
+1 medium banana, sliced &
+frozen
+8 fl. oz. (240ml)
+unsweetened almond milk
+4.2 oz. (120g) Greek yogurt
+2 tbsp. almond butter
+2 tsp. vanilla extract
+1 tsp. ground cinnamon
+pinch of nutmeg
+Serves 2 5 Minutes
+GF V Q N
+
+================ PAGE 64 ================
+
+================ PAGE 65 ================
+
+Nutrition
+Per Serve
+Energy Carbs Protein Fat
+245kcal 55g 4g 1g
+@iamtimwalcott
+07528385
+myfitnesspal
+The Zen Smoothie
+Blend all the ingredients in a blender until smooth. Serve.1 cucumber, chopped
+6.5 oz. (185g) green grapes
+2 carrots, peeled & chopped
+2 slices lemon
+1 cup water
+5 ice cubes
+Serves 2 5 Minutes
+GF DF V Q
